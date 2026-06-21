@@ -4,7 +4,8 @@ date: 2025-12-28 23:11:05
 categories:
   - "题解"
 tags:
-  - "P2328"
+  - "构造"
+  - "DFS"
 luogu_lid: "nuly3myy"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/nuly3myy"

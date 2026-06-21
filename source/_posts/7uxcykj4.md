@@ -4,7 +4,8 @@ date: 2023-02-09 21:51:10
 categories:
   - "题解"
 tags:
-  - "CF550D"
+  - "构造"
+  - "图论"
 luogu_lid: "7uxcykj4"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/7uxcykj4"

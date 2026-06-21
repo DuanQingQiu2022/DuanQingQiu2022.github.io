@@ -3,6 +3,9 @@ title: "【题解】P1308 [NOIP2011 普及组] 统计单词数"
 date: 2021-07-28 21:51:05
 categories:
   - "题解"
+tags:
+  - "字符串"
+  - "模拟"
 luogu_lid: "v6i3qy2k"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/v6i3qy2k"

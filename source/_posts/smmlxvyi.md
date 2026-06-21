@@ -4,7 +4,8 @@ date: 2025-05-13 12:06:52
 categories:
   - "题解"
 tags:
-  - "P12509"
+  - "位运算"
+  - "构造"
 luogu_lid: "smmlxvyi"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/smmlxvyi"

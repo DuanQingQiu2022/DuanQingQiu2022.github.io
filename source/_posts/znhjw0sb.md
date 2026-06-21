@@ -4,7 +4,9 @@ date: 2025-05-09 17:02:20
 categories:
   - "题解"
 tags:
-  - "P4765"
+  - "动态规划"
+  - "贪心"
+  - "博弈论"
 luogu_lid: "znhjw0sb"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/znhjw0sb"

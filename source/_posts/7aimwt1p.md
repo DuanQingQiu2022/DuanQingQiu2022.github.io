@@ -3,6 +3,9 @@ title: "【题解】P6033 [NOIP2004 提高组] 合并果子 加强版"
 date: 2021-12-06 23:31:44
 categories:
   - "题解"
+tags:
+  - "贪心"
+  - "排序"
 luogu_lid: "7aimwt1p"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/7aimwt1p"

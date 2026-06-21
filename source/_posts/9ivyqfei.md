@@ -4,7 +4,7 @@ date: 2023-02-28 13:30:43
 categories:
   - "题解"
 tags:
-  - "CF1227G"
+  - "构造"
 luogu_lid: "9ivyqfei"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/9ivyqfei"

@@ -4,7 +4,7 @@ date: 2022-05-15 23:16:27
 categories:
   - "题解"
 tags:
-  - "CF1679C"
+  - "树状数组"
 luogu_lid: "buf60a1o"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/buf60a1o"

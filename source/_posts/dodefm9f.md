@@ -4,7 +4,7 @@ date: 2021-11-25 21:44:35
 categories:
   - "题解"
 tags:
-  - "CF1612D"
+  - "数论"
 luogu_lid: "dodefm9f"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/dodefm9f"

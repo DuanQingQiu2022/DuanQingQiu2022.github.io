@@ -4,7 +4,8 @@ date: 2021-09-09 12:58:04
 categories:
   - "题解"
 tags:
-  - "CF1567B"
+  - "位运算"
+  - "数学"
 luogu_lid: "xiji23gs"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/xiji23gs"

@@ -3,6 +3,10 @@ title: "【题解】P7913 [CSP-S 2021] 廊桥分配"
 date: 2021-11-16 23:20:00
 categories:
   - "题解"
+tags:
+  - "堆"
+  - "前缀和"
+  - "贪心"
 luogu_lid: "hegqqjeg"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/hegqqjeg"

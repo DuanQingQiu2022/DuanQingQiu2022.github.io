@@ -4,7 +4,7 @@ date: 2025-11-25 23:55:30
 categories:
   - "题解"
 tags:
-  - "P3567"
+  - "二分"
 luogu_lid: "2ye4vrk6"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/2ye4vrk6"

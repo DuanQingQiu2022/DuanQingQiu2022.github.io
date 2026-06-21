@@ -4,7 +4,9 @@ date: 2022-10-28 17:27:49
 categories:
   - "题解"
 tags:
-  - "CF93E"
+  - "容斥原理"
+  - "记忆化搜索"
+  - "数论"
 luogu_lid: "uzjntgjd"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/uzjntgjd"

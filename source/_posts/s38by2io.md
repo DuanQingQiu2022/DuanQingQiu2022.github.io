@@ -4,7 +4,7 @@ date: 2022-02-26 22:31:45
 categories:
   - "题解"
 tags:
-  - "CF1642B"
+  - "贪心"
 luogu_lid: "s38by2io"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/s38by2io"

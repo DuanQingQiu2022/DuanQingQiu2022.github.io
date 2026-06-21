@@ -3,6 +3,8 @@ title: "【题解】CF1594D The Number of Imposters"
 date: 2021-11-01 17:42:05
 categories:
   - "题解"
+tags:
+  - "并查集"
 luogu_lid: "mcjbr8fn"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/mcjbr8fn"

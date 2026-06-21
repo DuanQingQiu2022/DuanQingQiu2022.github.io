@@ -3,6 +3,9 @@ title: "【题解】P7273 ix35 的等差数列"
 date: 2021-10-13 23:57:56
 categories:
   - "题解"
+tags:
+  - "哈希"
+  - "数学"
 luogu_lid: "5ftss48p"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/5ftss48p"

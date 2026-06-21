@@ -3,6 +3,9 @@ title: "【题解】P2073 送花"
 date: 2022-03-29 17:56:10
 categories:
   - "题解"
+tags:
+  - "模拟"
+  - "堆"
 luogu_lid: "7svjjwqk"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/7svjjwqk"

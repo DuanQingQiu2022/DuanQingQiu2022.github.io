@@ -4,7 +4,9 @@ date: 2026-01-04 04:17:32
 categories:
   - "题解"
 tags:
-  - "P3223"
+  - "组合数学"
+  - "容斥原理"
+  - "高精度"
 luogu_lid: "0fx3vq0c"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/0fx3vq0c"

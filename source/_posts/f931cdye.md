@@ -4,7 +4,9 @@ date: 2025-04-29 15:10:34
 categories:
   - "题解"
 tags:
-  - "P10332"
+  - "贪心"
+  - "堆"
+  - "概率与期望"
 luogu_lid: "f931cdye"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/f931cdye"

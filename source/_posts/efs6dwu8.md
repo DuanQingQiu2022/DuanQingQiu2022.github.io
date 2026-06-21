@@ -3,6 +3,9 @@ title: "【题解】P2051 [AHOI2009]中国象棋"
 date: 2022-04-04 23:10:21
 categories:
   - "题解"
+tags:
+  - "动态规划"
+  - "组合数学"
 luogu_lid: "efs6dwu8"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/efs6dwu8"

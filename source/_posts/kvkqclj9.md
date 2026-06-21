@@ -4,7 +4,8 @@ date: 2023-02-20 22:31:08
 categories:
   - "题解"
 tags:
-  - "CF1144F"
+  - "二分图"
+  - "图论"
 luogu_lid: "kvkqclj9"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/kvkqclj9"

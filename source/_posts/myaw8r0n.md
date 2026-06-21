@@ -3,6 +3,8 @@ title: "【题解】P4281 [AHOI2008]紧急集合 / 聚会"
 date: 2022-04-11 22:47:52
 categories:
   - "题解"
+tags:
+  - "LCA"
 luogu_lid: "myaw8r0n"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/myaw8r0n"

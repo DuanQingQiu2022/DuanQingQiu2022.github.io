@@ -3,6 +3,9 @@ title: "【题解】P5322 [BJOI2019]排兵布阵"
 date: 2021-09-18 14:09:51
 categories:
   - "题解"
+tags:
+  - "背包"
+  - "排序"
 luogu_lid: "4sgiegds"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/4sgiegds"

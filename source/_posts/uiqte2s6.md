@@ -3,6 +3,9 @@ title: "【题解】P2158 [SDOI2008] 仪仗队"
 date: 2021-10-07 22:15:10
 categories:
   - "题解"
+tags:
+  - "欧拉函数"
+  - "筛法"
 luogu_lid: "uiqte2s6"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/uiqte2s6"

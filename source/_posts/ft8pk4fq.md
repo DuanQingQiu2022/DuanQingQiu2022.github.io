@@ -3,6 +3,10 @@ title: "【题解】P3750 [六省联考 2017] 分手是祝愿"
 date: 2022-08-07 00:04:16
 categories:
   - "题解"
+tags:
+  - "概率与期望"
+  - "递推"
+  - "数论"
 luogu_lid: "ft8pk4fq"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/ft8pk4fq"

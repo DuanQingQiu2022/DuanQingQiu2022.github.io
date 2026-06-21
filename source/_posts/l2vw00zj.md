@@ -3,6 +3,9 @@ title: "【题解】P5683 [CSP-J2019 江西] 道路拆除"
 date: 2022-05-21 16:35:44
 categories:
   - "题解"
+tags:
+  - "最短路"
+  - "BFS"
 luogu_lid: "l2vw00zj"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/l2vw00zj"

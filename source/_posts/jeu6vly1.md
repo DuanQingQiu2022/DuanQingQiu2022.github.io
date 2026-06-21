@@ -4,7 +4,8 @@ date: 2025-12-20 21:09:51
 categories:
   - "题解"
 tags:
-  - "P1043"
+  - "区间DP"
+  - "前缀和"
 luogu_lid: "jeu6vly1"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/jeu6vly1"

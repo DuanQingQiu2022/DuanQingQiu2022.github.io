@@ -4,7 +4,7 @@ date: 2025-03-25 16:54:23
 categories:
   - "题解"
 tags:
-  - "P2789"
+  - "记忆化搜索"
 luogu_lid: "pk6l8il0"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/pk6l8il0"

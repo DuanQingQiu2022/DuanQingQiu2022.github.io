@@ -4,7 +4,8 @@ date: 2021-07-26 16:09:42
 categories:
   - "题解"
 tags:
-  - "CF1552A"
+  - "排序"
+  - "字符串"
 luogu_lid: "1kr2ub7o"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/1kr2ub7o"

@@ -4,7 +4,9 @@ date: 2026-05-30 02:43:08
 categories:
   - "题解"
 tags:
-  - "P3199"
+  - "分数规划"
+  - "二分"
+  - "最短路"
 luogu_lid: "2kxz51vi"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/2kxz51vi"

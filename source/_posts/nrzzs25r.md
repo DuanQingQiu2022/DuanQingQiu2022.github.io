@@ -4,7 +4,8 @@ date: 2021-02-09 23:05:19
 categories:
   - "题解"
 tags:
-  - "P7338"
+  - "贪心"
+  - "模拟"
 luogu_lid: "nrzzs25r"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/nrzzs25r"

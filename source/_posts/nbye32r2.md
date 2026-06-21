@@ -3,6 +3,8 @@ title: "【题解】P3743 kotori的设备"
 date: 2022-04-20 22:32:29
 categories:
   - "题解"
+tags:
+  - "二分"
 luogu_lid: "nbye32r2"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/nbye32r2"

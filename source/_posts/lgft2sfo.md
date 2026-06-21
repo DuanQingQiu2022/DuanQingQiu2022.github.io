@@ -4,7 +4,8 @@ date: 2022-03-16 18:18:50
 categories:
   - "题解"
 tags:
-  - "P8207"
+  - "最小生成树"
+  - "数论"
 luogu_lid: "lgft2sfo"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/lgft2sfo"

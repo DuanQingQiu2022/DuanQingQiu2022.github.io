@@ -4,7 +4,8 @@ date: 2022-02-15 11:43:41
 categories:
   - "题解"
 tags:
-  - "CF1638A"
+  - "贪心"
+  - "构造"
 luogu_lid: "gf7m8obd"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/gf7m8obd"

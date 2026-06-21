@@ -4,7 +4,7 @@ date: 2022-07-21 20:23:41
 categories:
   - "题解"
 tags:
-  - "CF1305E"
+  - "构造"
 luogu_lid: "q8hln1ye"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/q8hln1ye"

@@ -3,6 +3,9 @@ title: "【题解】P2261 [CQOI2007]余数求和"
 date: 2022-04-13 23:37:56
 categories:
   - "题解"
+tags:
+  - "数论"
+  - "分块"
 luogu_lid: "uzroc50k"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/uzroc50k"

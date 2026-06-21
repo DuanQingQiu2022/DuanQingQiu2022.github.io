@@ -3,6 +3,8 @@ title: "【题解】CF1559A Mocha and Math"
 date: 2021-08-29 23:22:14
 categories:
   - "题解"
+tags:
+  - "位运算"
 luogu_lid: "krri91ui"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/krri91ui"

@@ -3,6 +3,10 @@ title: "【题解】P1099 [NOIP2007 提高组] 树网的核 || P2491 [SDOI2011] 
 date: 2022-05-19 16:04:42
 categories:
   - "题解"
+tags:
+  - "图论"
+  - "贪心"
+  - "双指针"
 luogu_lid: "xdpfnwgs"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/xdpfnwgs"

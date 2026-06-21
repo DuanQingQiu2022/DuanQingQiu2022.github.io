@@ -3,6 +3,9 @@ title: "【题解】P3509 [POI2010] ZAB-Frog"
 date: 2024-12-15 00:54:02
 categories:
   - "题解"
+tags:
+  - "倍增"
+  - "单调队列"
 luogu_lid: "pbsmrif5"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/pbsmrif5"

@@ -3,6 +3,9 @@ title: "【题解】P4158 [SCOI2009]粉刷匠"
 date: 2021-11-09 22:26:31
 categories:
   - "题解"
+tags:
+  - "背包"
+  - "记忆化搜索"
 luogu_lid: "wmrf3zzz"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/wmrf3zzz"

@@ -3,6 +3,8 @@ title: "【题解】P1364 医院设置"
 date: 2022-02-12 22:59:53
 categories:
   - "题解"
+tags:
+  - "树形DP"
 luogu_lid: "nxgcj4oh"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/nxgcj4oh"

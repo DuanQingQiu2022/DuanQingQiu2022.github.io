@@ -4,7 +4,8 @@ date: 2022-06-19 23:00:15
 categories:
   - "题解"
 tags:
-  - "CF1659C"
+  - "贪心"
+  - "前缀和"
 luogu_lid: "snz35zy6"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/snz35zy6"

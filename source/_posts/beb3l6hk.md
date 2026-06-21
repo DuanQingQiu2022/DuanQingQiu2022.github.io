@@ -4,7 +4,7 @@ date: 2023-02-22 13:54:14
 categories:
   - "题解"
 tags:
-  - "CF906C"
+  - "状压DP"
 luogu_lid: "beb3l6hk"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/beb3l6hk"

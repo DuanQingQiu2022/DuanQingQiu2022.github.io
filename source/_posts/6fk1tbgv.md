@@ -4,7 +4,8 @@ date: 2026-05-27 14:37:10
 categories:
   - "题解"
 tags:
-  - "P1809"
+  - "贪心"
+  - "排序"
 luogu_lid: "6fk1tbgv"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/6fk1tbgv"

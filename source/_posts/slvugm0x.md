@@ -3,6 +3,9 @@ title: "【题解】P1156 垃圾陷阱"
 date: 2021-10-12 12:55:30
 categories:
   - "题解"
+tags:
+  - "记忆化搜索"
+  - "背包"
 luogu_lid: "slvugm0x"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/slvugm0x"

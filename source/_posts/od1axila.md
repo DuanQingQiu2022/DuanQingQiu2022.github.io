@@ -4,7 +4,8 @@ date: 2025-12-25 14:09:52
 categories:
   - "题解"
 tags:
-  - "P14835"
+  - "贪心"
+  - "位运算"
 luogu_lid: "od1axila"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/od1axila"

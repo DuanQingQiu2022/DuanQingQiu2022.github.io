@@ -4,7 +4,8 @@ date: 2022-07-09 10:58:29
 categories:
   - "题解"
 tags:
-  - "CF1701C"
+  - "二分"
+  - "贪心"
 luogu_lid: "6qn5p8ml"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/6qn5p8ml"

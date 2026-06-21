@@ -3,6 +3,9 @@ title: "【题解】P1396 营救"
 date: 2022-02-20 23:35:01
 categories:
   - "题解"
+tags:
+  - "最小生成树"
+  - "并查集"
 luogu_lid: "wglsvlbd"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/wglsvlbd"

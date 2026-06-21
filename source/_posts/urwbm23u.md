@@ -4,7 +4,9 @@ date: 2026-05-29 14:07:31
 categories:
   - "题解"
 tags:
-  - "P4377"
+  - "分数规划"
+  - "二分"
+  - "背包"
 luogu_lid: "urwbm23u"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/urwbm23u"

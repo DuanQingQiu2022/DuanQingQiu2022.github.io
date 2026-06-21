@@ -4,7 +4,8 @@ date: 2025-04-13 17:23:45
 categories:
   - "题解"
 tags:
-  - "P12142"
+  - "组合数学"
+  - "逆元"
 luogu_lid: "1nsyh3wt"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/1nsyh3wt"

@@ -4,7 +4,8 @@ date: 2026-01-04 04:44:58
 categories:
   - "题解"
 tags:
-  - "P1974"
+  - "贪心"
+  - "高精度"
 luogu_lid: "0izx21gm"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/0izx21gm"

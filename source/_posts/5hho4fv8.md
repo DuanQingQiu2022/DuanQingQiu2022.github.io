@@ -4,7 +4,8 @@ date: 2025-04-06 04:03:47
 categories:
   - "题解"
 tags:
-  - "P9691"
+  - "动态规划"
+  - "单调队列"
 luogu_lid: "5hho4fv8"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/5hho4fv8"

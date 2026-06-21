@@ -4,7 +4,8 @@ date: 2025-11-29 15:16:49
 categories:
   - "题解"
 tags:
-  - "P14635"
+  - "贪心"
+  - "排序"
 luogu_lid: "8zn2xrnw"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/8zn2xrnw"

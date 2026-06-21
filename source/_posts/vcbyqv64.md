@@ -4,7 +4,8 @@ date: 2025-12-26 21:27:55
 categories:
   - "题解"
 tags:
-  - "P1925"
+  - "数学"
+  - "数论"
 luogu_lid: "vcbyqv64"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/vcbyqv64"

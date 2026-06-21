@@ -3,6 +3,9 @@ title: "【题解】P5020 [NOIP2018 提高组] 货币系统"
 date: 2021-07-17 23:50:20
 categories:
   - "题解"
+tags:
+  - "背包"
+  - "动态规划"
 luogu_lid: "uw3wmulm"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/uw3wmulm"

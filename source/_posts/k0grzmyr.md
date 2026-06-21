@@ -3,6 +3,10 @@ title: "【题解】P7078 [CSP-S2020] 贪吃蛇"
 date: 2022-05-04 20:07:39
 categories:
   - "题解"
+tags:
+  - "贪心"
+  - "模拟"
+  - "单调队列"
 luogu_lid: "k0grzmyr"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/k0grzmyr"

@@ -4,7 +4,8 @@ date: 2025-04-28 23:59:11
 categories:
   - "题解"
 tags:
-  - "P1846"
+  - "动态规划"
+  - "前缀和"
 luogu_lid: "4ama86ql"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/4ama86ql"

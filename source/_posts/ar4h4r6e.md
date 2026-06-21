@@ -4,7 +4,8 @@ date: 2026-06-10 02:21:35
 categories:
   - "题解"
 tags:
-  - "P15562"
+  - "构造"
+  - "背包"
 luogu_lid: "ar4h4r6e"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/ar4h4r6e"

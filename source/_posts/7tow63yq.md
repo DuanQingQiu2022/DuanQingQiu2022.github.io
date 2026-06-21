@@ -4,7 +4,8 @@ date: 2021-10-27 16:25:08
 categories:
   - "题解"
 tags:
-  - "CF1214C"
+  - "模拟"
+  - "字符串"
 luogu_lid: "7tow63yq"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/7tow63yq"

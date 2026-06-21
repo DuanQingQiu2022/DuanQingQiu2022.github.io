@@ -3,6 +3,8 @@ title: "【题解】P8255 [NOI Online 2022 普及组] 数学游戏"
 date: 2022-03-29 21:10:49
 categories:
   - "题解"
+tags:
+  - "数论"
 luogu_lid: "bytoerag"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/bytoerag"

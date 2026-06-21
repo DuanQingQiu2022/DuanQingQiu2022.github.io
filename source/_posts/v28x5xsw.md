@@ -3,6 +3,9 @@ title: "【题解】P2440 木材加工"
 date: 2021-11-18 21:40:23
 categories:
   - "题解"
+tags:
+  - "二分"
+  - "排序"
 luogu_lid: "v28x5xsw"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/v28x5xsw"

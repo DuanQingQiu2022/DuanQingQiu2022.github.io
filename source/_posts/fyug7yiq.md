@@ -4,7 +4,9 @@ date: 2021-09-15 12:56:02
 categories:
   - "题解"
 tags:
-  - "P3599"
+  - "构造"
+  - "逆元"
+  - "数论"
 luogu_lid: "fyug7yiq"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/fyug7yiq"

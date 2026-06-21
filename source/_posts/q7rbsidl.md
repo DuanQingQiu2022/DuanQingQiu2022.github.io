@@ -4,7 +4,8 @@ date: 2022-05-21 15:44:00
 categories:
   - "题解"
 tags:
-  - "AT_autumn_fest_03"
+  - "概率与期望"
+  - "数学"
 luogu_lid: "q7rbsidl"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/q7rbsidl"

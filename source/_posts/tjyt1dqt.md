@@ -4,7 +4,7 @@ date: 2022-02-15 12:46:34
 categories:
   - "题解"
 tags:
-  - "AT_agc016_b"
+  - "构造"
 luogu_lid: "tjyt1dqt"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/tjyt1dqt"

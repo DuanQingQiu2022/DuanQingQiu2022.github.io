@@ -3,6 +3,10 @@ title: "【题解】P3628 [APIO2010]特别行动队"
 date: 2022-02-09 23:43:30
 categories:
   - "题解"
+tags:
+  - "动态规划"
+  - "单调队列"
+  - "前缀和"
 luogu_lid: "4oguthml"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/4oguthml"

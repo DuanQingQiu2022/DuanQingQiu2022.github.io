@@ -3,6 +3,9 @@ title: "【题解】CF1593C Save More Mice"
 date: 2021-11-16 12:36:35
 categories:
   - "题解"
+tags:
+  - "贪心"
+  - "排序"
 luogu_lid: "qv1p6g2j"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/qv1p6g2j"

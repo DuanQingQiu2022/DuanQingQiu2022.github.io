@@ -3,6 +3,8 @@ title: "【题解】P1550 [USACO08OCT]Watering Hole G"
 date: 2022-02-26 20:49:17
 categories:
   - "题解"
+tags:
+  - "最小生成树"
 luogu_lid: "golas5k9"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/golas5k9"

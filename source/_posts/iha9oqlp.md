@@ -4,7 +4,8 @@ date: 2026-06-09 00:49:13
 categories:
   - "题解"
 tags:
-  - "P16807"
+  - "组合数学"
+  - "数学"
 luogu_lid: "iha9oqlp"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/iha9oqlp"

@@ -4,7 +4,8 @@ date: 2021-07-23 09:11:35
 categories:
   - "题解"
 tags:
-  - "CF1553A"
+  - "数学"
+  - "同余"
 luogu_lid: "q04lnfb8"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/q04lnfb8"

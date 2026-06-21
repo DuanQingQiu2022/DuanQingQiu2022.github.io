@@ -4,7 +4,8 @@ date: 2021-07-28 17:21:46
 categories:
   - "题解"
 tags:
-  - "CF451B"
+  - "排序"
+  - "模拟"
 luogu_lid: "0vk93exc"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/0vk93exc"

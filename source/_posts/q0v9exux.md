@@ -4,7 +4,8 @@ date: 2021-10-08 11:56:54
 categories:
   - "题解"
 tags:
-  - "P6927"
+  - "贪心"
+  - "排序"
 luogu_lid: "q0v9exux"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/q0v9exux"

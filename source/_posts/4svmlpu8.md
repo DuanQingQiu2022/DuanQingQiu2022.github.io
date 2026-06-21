@@ -3,6 +3,9 @@ title: "【题解】P2197 【模板】nim 游戏"
 date: 2021-09-25 23:40:33
 categories:
   - "题解"
+tags:
+  - "博弈论"
+  - "位运算"
 luogu_lid: "4svmlpu8"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/4svmlpu8"

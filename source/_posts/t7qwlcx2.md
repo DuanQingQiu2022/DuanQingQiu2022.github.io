@@ -4,7 +4,9 @@ date: 2021-08-05 08:28:44
 categories:
   - "题解"
 tags:
-  - "P4555"
+  - "manacher"
+  - "字符串"
+  - "递推"
 luogu_lid: "t7qwlcx2"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/t7qwlcx2"

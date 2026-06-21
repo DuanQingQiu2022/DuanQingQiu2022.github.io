@@ -4,7 +4,7 @@ date: 2021-10-12 15:46:06
 categories:
   - "题解"
 tags:
-  - "CF1598A"
+  - "模拟"
 luogu_lid: "4yqid1ou"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/4yqid1ou"

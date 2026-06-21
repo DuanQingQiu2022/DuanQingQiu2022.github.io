@@ -4,7 +4,8 @@ date: 2021-07-24 23:49:06
 categories:
   - "题解"
 tags:
-  - "CF1553B"
+  - "字符串"
+  - "模拟"
 luogu_lid: "z2ecvbng"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/z2ecvbng"

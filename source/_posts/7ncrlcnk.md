@@ -4,7 +4,8 @@ date: 2021-09-23 11:55:21
 categories:
   - "题解"
 tags:
-  - "CF1184E1"
+  - "最小生成树"
+  - "并查集"
 luogu_lid: "7ncrlcnk"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/7ncrlcnk"

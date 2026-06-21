@@ -3,6 +3,9 @@ title: "【题解】P2508 [HAOI2008]圆上的整点"
 date: 2021-07-08 23:21:02
 categories:
   - "题解"
+tags:
+  - "数论"
+  - "数学"
 luogu_lid: "ag9pbgj1"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/ag9pbgj1"

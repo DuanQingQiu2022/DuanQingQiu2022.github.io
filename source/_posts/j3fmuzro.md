@@ -4,7 +4,8 @@ date: 2025-07-11 12:46:30
 categories:
   - "题解"
 tags:
-  - "P8266"
+  - "构造"
+  - "贪心"
 luogu_lid: "j3fmuzro"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/j3fmuzro"

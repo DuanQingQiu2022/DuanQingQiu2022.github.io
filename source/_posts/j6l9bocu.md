@@ -4,7 +4,8 @@ date: 2022-07-19 21:27:22
 categories:
   - "题解"
 tags:
-  - "P4249"
+  - "网络流"
+  - "组合数学"
 luogu_lid: "j6l9bocu"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/j6l9bocu"

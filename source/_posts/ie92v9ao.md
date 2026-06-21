@@ -4,7 +4,8 @@ date: 2026-01-03 09:51:59
 categories:
   - "题解"
 tags:
-  - "P13364"
+  - "概率与期望"
+  - "贪心"
 luogu_lid: "ie92v9ao"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/ie92v9ao"

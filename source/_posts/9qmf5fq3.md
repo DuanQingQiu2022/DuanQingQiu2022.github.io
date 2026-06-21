@@ -3,6 +3,8 @@ title: "【题解】CF13E Holes"
 date: 2023-02-08 00:03:11
 categories:
   - "题解"
+tags:
+  - "分块"
 luogu_lid: "9qmf5fq3"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/9qmf5fq3"

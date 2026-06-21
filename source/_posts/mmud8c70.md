@@ -4,7 +4,8 @@ date: 2025-04-12 16:31:08
 categories:
   - "题解"
 tags:
-  - "P12143"
+  - "双指针"
+  - "递推"
 luogu_lid: "mmud8c70"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/mmud8c70"

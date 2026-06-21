@@ -4,7 +4,7 @@ date: 2023-02-08 00:14:21
 categories:
   - "题解"
 tags:
-  - "CF18E"
+  - "动态规划"
 luogu_lid: "qov1lca4"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/qov1lca4"

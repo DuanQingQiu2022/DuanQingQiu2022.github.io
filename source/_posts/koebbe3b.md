@@ -3,6 +3,8 @@ title: "【题解】P5661 [CSP-J2019] 公交换乘"
 date: 2021-02-28 15:33:49
 categories:
   - "题解"
+tags:
+  - "模拟"
 luogu_lid: "koebbe3b"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/koebbe3b"

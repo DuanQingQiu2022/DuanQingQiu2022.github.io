@@ -4,7 +4,9 @@ date: 2025-12-26 20:45:27
 categories:
   - "题解"
 tags:
-  - "P2127"
+  - "贪心"
+  - "并查集"
+  - "排序"
 luogu_lid: "5mzhlt1r"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/5mzhlt1r"

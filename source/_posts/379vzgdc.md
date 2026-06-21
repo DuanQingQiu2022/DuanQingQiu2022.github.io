@@ -4,7 +4,7 @@ date: 2021-07-24 13:39:31
 categories:
   - "题解"
 tags:
-  - "CF1551B1"
+  - "贪心"
 luogu_lid: "379vzgdc"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/379vzgdc"

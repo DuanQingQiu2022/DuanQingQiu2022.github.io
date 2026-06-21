@@ -3,6 +3,10 @@ title: "【题解】CF797（Div 2）"
 date: 2023-01-04 23:41:06
 categories:
   - "题解"
+tags:
+  - "贪心"
+  - "动态规划"
+  - "单调队列"
 luogu_lid: "6x9gqtms"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/6x9gqtms"

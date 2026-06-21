@@ -3,6 +3,8 @@ title: "【题解】P4430 小猴打架"
 date: 2021-10-03 21:03:45
 categories:
   - "题解"
+tags:
+  - "组合数学"
 luogu_lid: "b4flxlbn"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/b4flxlbn"

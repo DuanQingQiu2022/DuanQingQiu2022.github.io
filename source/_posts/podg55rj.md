@@ -4,7 +4,8 @@ date: 2025-04-07 01:12:25
 categories:
   - "题解"
 tags:
-  - "P9693"
+  - "贪心"
+  - "排序"
 luogu_lid: "podg55rj"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/podg55rj"

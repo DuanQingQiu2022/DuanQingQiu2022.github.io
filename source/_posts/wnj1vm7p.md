@@ -3,6 +3,8 @@ title: "【题解】P1102 A-B 数对"
 date: 2021-11-04 11:34:23
 categories:
   - "题解"
+tags:
+  - "哈希"
 luogu_lid: "wnj1vm7p"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/wnj1vm7p"

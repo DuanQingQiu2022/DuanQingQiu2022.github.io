@@ -3,6 +3,10 @@ title: "【题解】CF1695（Div 2）"
 date: 2022-10-14 23:51:39
 categories:
   - "题解"
+tags:
+  - "构造"
+  - "图论"
+  - "博弈论"
 luogu_lid: "8svtxvg5"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/8svtxvg5"

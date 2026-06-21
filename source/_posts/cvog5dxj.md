@@ -4,7 +4,9 @@ date: 2023-02-17 23:40:24
 categories:
   - "题解"
 tags:
-  - "CF431D"
+  - "二分"
+  - "数位DP"
+  - "组合数学"
 luogu_lid: "cvog5dxj"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/cvog5dxj"

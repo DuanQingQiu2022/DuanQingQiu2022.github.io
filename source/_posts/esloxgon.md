@@ -4,7 +4,8 @@ date: 2022-02-26 20:54:32
 categories:
   - "题解"
 tags:
-  - "CF1642A"
+  - "计算几何"
+  - "模拟"
 luogu_lid: "esloxgon"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/esloxgon"

@@ -4,7 +4,8 @@ date: 2024-11-19 17:24:25
 categories:
   - "题解"
 tags:
-  - "P10614"
+  - "状压DP"
+  - "动态规划"
 luogu_lid: "81lpsex8"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/81lpsex8"

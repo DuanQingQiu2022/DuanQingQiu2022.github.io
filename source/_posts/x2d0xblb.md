@@ -4,7 +4,9 @@ date: 2023-02-26 22:18:23
 categories:
   - "题解"
 tags:
-  - "CF1032E"
+  - "动态规划"
+  - "背包"
+  - "组合数学"
 luogu_lid: "x2d0xblb"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/x2d0xblb"

@@ -3,6 +3,9 @@ title: "【题解】P8866 [NOIP2022] 喵了个喵"
 date: 2022-11-29 23:41:31
 categories:
   - "题解"
+tags:
+  - "构造"
+  - "模拟"
 luogu_lid: "6n7kcihs"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/6n7kcihs"

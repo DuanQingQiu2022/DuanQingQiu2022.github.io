@@ -4,7 +4,8 @@ date: 2025-09-07 02:58:49
 categories:
   - "题解"
 tags:
-  - "B4394"
+  - "构造"
+  - "数论"
 luogu_lid: "lahul0cf"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/lahul0cf"

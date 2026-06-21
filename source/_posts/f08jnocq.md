@@ -4,7 +4,8 @@ date: 2024-12-14 22:30:47
 categories:
   - "题解"
 tags:
-  - "P11397"
+  - "数学"
+  - "递推"
 luogu_lid: "f08jnocq"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/f08jnocq"

@@ -4,7 +4,8 @@ date: 2023-02-19 18:04:41
 categories:
   - "题解"
 tags:
-  - "CF27D"
+  - "二分图"
+  - "图论"
 luogu_lid: "rf1e4dld"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/rf1e4dld"

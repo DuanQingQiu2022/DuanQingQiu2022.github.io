@@ -4,7 +4,8 @@ date: 2022-10-28 11:23:19
 categories:
   - "题解"
 tags:
-  - "CF425E"
+  - "动态规划"
+  - "组合数学"
 luogu_lid: "76veg6am"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/76veg6am"

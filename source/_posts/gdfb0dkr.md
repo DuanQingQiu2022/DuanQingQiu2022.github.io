@@ -4,7 +4,8 @@ date: 2022-06-16 12:58:13
 categories:
   - "题解"
 tags:
-  - "CF1692E"
+  - "前缀和"
+  - "双指针"
 luogu_lid: "gdfb0dkr"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/gdfb0dkr"

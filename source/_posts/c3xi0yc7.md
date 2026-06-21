@@ -3,6 +3,8 @@ title: "【题解】CF1436A Reorder"
 date: 2021-04-11 22:30:34
 categories:
   - "题解"
+tags:
+  - "数学"
 luogu_lid: "c3xi0yc7"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/c3xi0yc7"

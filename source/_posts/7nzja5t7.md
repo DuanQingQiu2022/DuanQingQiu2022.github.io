@@ -3,6 +3,10 @@ title: "【题解】P5664 [CSP-S2019] Emiya 家今天的饭"
 date: 2021-09-01 14:20:47
 categories:
   - "题解"
+tags:
+  - "动态规划"
+  - "容斥原理"
+  - "组合数学"
 luogu_lid: "7nzja5t7"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/7nzja5t7"

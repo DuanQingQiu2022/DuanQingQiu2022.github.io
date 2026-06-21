@@ -3,6 +3,8 @@ title: "【题解】P1194 买礼物"
 date: 2022-03-06 23:07:25
 categories:
   - "题解"
+tags:
+  - "最小生成树"
 luogu_lid: "05bcyt6p"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/05bcyt6p"

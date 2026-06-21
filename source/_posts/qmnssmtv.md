@@ -4,7 +4,8 @@ date: 2023-02-13 10:20:06
 categories:
   - "题解"
 tags:
-  - "CF442B"
+  - "贪心"
+  - "概率与期望"
 luogu_lid: "qmnssmtv"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/qmnssmtv"

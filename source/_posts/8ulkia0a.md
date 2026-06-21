@@ -4,7 +4,8 @@ date: 2022-08-12 14:13:59
 categories:
   - "题解"
 tags:
-  - "P8491"
+  - "构造"
+  - "分治"
 luogu_lid: "8ulkia0a"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/8ulkia0a"

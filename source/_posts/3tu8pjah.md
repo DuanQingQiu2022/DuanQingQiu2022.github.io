@@ -4,7 +4,9 @@ date: 2021-08-06 07:55:38
 categories:
   - "题解"
 tags:
-  - "P6776"
+  - "构造"
+  - "字典树"
+  - "DFS"
 luogu_lid: "3tu8pjah"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/3tu8pjah"

@@ -3,6 +3,9 @@ title: "【题解】P8819 [CSP-S 2022] 星战"
 date: 2022-11-12 18:27:40
 categories:
   - "题解"
+tags:
+  - "哈希"
+  - "图论"
 luogu_lid: "bte5jn6k"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/bte5jn6k"

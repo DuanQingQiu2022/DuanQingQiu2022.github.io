@@ -4,7 +4,8 @@ date: 2021-11-09 22:10:20
 categories:
   - "题解"
 tags:
-  - "CF1157C2"
+  - "贪心"
+  - "双指针"
 luogu_lid: "fpr4z2az"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/fpr4z2az"

@@ -3,6 +3,8 @@ title: "【题解】P2024 [NOI2001] 食物链"
 date: 2021-09-27 14:20:33
 categories:
   - "题解"
+tags:
+  - "并查集"
 luogu_lid: "jzit4mau"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/jzit4mau"

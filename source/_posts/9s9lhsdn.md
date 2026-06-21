@@ -4,7 +4,7 @@ date: 2021-10-19 19:18:48
 categories:
   - "题解"
 tags:
-  - "CF1467B"
+  - "模拟"
 luogu_lid: "9s9lhsdn"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/9s9lhsdn"

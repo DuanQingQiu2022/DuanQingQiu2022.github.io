@@ -3,6 +3,9 @@ title: "【题解】P5194 [USACO05DEC]Scales S"
 date: 2021-11-12 23:10:56
 categories:
   - "题解"
+tags:
+  - "搜索"
+  - "剪枝"
 luogu_lid: "i6s7cpsz"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/i6s7cpsz"

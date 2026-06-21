@@ -4,7 +4,7 @@ date: 2021-03-06 22:34:23
 categories:
   - "题解"
 tags:
-  - "CF1433B"
+  - "贪心"
 luogu_lid: "pw8nqixu"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/pw8nqixu"

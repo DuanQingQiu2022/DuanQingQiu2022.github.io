@@ -4,7 +4,9 @@ date: 2022-07-05 01:18:28
 categories:
   - "题解"
 tags:
-  - "P7525"
+  - "字符串"
+  - "KMP"
+  - "快速幂"
 luogu_lid: "su76nexd"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/su76nexd"

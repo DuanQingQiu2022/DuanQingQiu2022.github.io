@@ -3,6 +3,9 @@ title: "【题解】P3254 圆桌问题"
 date: 2022-06-09 15:47:53
 categories:
   - "题解"
+tags:
+  - "网络流"
+  - "二分图"
 luogu_lid: "8ftz9z7p"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/8ftz9z7p"

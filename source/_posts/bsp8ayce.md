@@ -4,7 +4,8 @@ date: 2021-08-21 23:57:16
 categories:
   - "题解"
 tags:
-  - "CF690A3"
+  - "构造"
+  - "同余"
 luogu_lid: "bsp8ayce"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/bsp8ayce"

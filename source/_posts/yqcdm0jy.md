@@ -4,7 +4,8 @@ date: 2021-07-26 16:23:56
 categories:
   - "题解"
 tags:
-  - "CF1552B"
+  - "贪心"
+  - "排序"
 luogu_lid: "yqcdm0jy"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/yqcdm0jy"

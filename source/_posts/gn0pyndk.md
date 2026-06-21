@@ -3,6 +3,10 @@ title: "【题解】P8883 幻想中成为原神"
 date: 2025-02-19 00:20:17
 categories:
   - "题解"
+tags:
+  - "数学"
+  - "容斥原理"
+  - "质数"
 luogu_lid: "gn0pyndk"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/gn0pyndk"

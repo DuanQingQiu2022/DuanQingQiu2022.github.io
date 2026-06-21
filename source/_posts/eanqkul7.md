@@ -4,7 +4,9 @@ date: 2021-10-15 19:37:26
 categories:
   - "题解"
 tags:
-  - "CF601C"
+  - "概率DP"
+  - "概率与期望"
+  - "前缀和"
 luogu_lid: "eanqkul7"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/eanqkul7"

@@ -3,6 +3,9 @@ title: "【题解】P1297 [国家集训队]单选错位"
 date: 2021-10-08 11:05:06
 categories:
   - "题解"
+tags:
+  - "概率与期望"
+  - "数学"
 luogu_lid: "2vk4p9an"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/2vk4p9an"

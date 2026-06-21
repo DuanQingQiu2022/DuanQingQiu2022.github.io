@@ -4,7 +4,9 @@ date: 2023-02-09 23:55:49
 categories:
   - "题解"
 tags:
-  - "CF449C"
+  - "构造"
+  - "质数"
+  - "贪心"
 luogu_lid: "fhdc2aua"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/fhdc2aua"

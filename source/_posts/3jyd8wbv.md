@@ -3,6 +3,9 @@ title: "【题解】P1119 灾后重建"
 date: 2022-01-08 23:38:21
 categories:
   - "题解"
+tags:
+  - "最短路"
+  - "图论"
 luogu_lid: "3jyd8wbv"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/3jyd8wbv"

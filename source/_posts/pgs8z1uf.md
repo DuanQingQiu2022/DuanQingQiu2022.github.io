@@ -4,7 +4,9 @@ date: 2022-12-13 23:25:43
 categories:
   - "题解"
 tags:
-  - "P8367"
+  - "组合数学"
+  - "容斥原理"
+  - "双指针"
 luogu_lid: "pgs8z1uf"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/pgs8z1uf"

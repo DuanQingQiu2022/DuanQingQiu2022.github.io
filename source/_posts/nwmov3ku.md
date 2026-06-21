@@ -3,6 +3,9 @@ title: "【题解】P2114 [NOI2014] 起床困难综合症"
 date: 2022-05-12 22:26:23
 categories:
   - "题解"
+tags:
+  - "位运算"
+  - "贪心"
 luogu_lid: "nwmov3ku"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/nwmov3ku"

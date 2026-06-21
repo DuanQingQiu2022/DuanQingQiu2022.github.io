@@ -4,7 +4,8 @@ date: 2021-08-04 12:57:53
 categories:
   - "题解"
 tags:
-  - "CF898F"
+  - "哈希"
+  - "字符串"
 luogu_lid: "ra070gzw"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/ra070gzw"

@@ -4,7 +4,9 @@ date: 2021-10-12 17:12:13
 categories:
   - "题解"
 tags:
-  - "CF1592F1"
+  - "构造"
+  - "贪心"
+  - "差分"
 luogu_lid: "v3a6w7bh"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/v3a6w7bh"

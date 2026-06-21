@@ -3,6 +3,9 @@ title: "【题解】P1052 [NOIP2005 提高组] 过河"
 date: 2022-04-06 22:52:28
 categories:
   - "题解"
+tags:
+  - "动态规划"
+  - "离散化"
 luogu_lid: "qano77w2"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/qano77w2"

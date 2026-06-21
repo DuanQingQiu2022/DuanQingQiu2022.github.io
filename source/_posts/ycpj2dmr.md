@@ -4,7 +4,7 @@ date: 2025-05-24 14:41:54
 categories:
   - "题解"
 tags:
-  - "P10701"
+  - "二分"
 luogu_lid: "ycpj2dmr"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/ycpj2dmr"

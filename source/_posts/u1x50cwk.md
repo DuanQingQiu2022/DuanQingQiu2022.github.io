@@ -4,7 +4,7 @@ date: 2025-12-19 17:47:22
 categories:
   - "题解"
 tags:
-  - "P1347"
+  - "拓扑排序"
 luogu_lid: "u1x50cwk"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/u1x50cwk"

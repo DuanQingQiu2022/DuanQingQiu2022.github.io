@@ -3,6 +3,8 @@ title: "【题解】P2446 [SDOI2010]大陆争霸"
 date: 2022-05-21 12:59:38
 categories:
   - "题解"
+tags:
+  - "最短路"
 luogu_lid: "goe6fwdb"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/goe6fwdb"

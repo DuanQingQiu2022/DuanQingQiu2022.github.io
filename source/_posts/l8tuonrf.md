@@ -4,7 +4,9 @@ date: 2023-03-14 13:57:27
 categories:
   - "题解"
 tags:
-  - "P3745"
+  - "二分"
+  - "前缀和"
+  - "贪心"
 luogu_lid: "l8tuonrf"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/l8tuonrf"

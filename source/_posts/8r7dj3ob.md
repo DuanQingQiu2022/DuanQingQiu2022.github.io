@@ -4,7 +4,8 @@ date: 2026-01-08 01:53:41
 categories:
   - "题解"
 tags:
-  - "CF2183E"
+  - "动态规划"
+  - "数论"
 luogu_lid: "8r7dj3ob"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/8r7dj3ob"

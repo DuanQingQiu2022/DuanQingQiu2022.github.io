@@ -4,11 +4,18 @@
 //   node migrate/migrate.mjs one   <lid>     # migrate a single article (write)
 //   node migrate/migrate.mjs run [list.json] # migrate everything in list.json
 import fsp from 'node:fs/promises';
+import fs from 'node:fs';
 import path from 'node:path';
 
 const ROOT = process.cwd();
 const POSTS_DIR = path.join(ROOT, 'source', '_posts');
 const IMG_BASE = path.join(ROOT, 'source', 'images', 'luogu');
+// Posts removed at the user's request — never emitted.
+const SKIP_LIDS = new Set(['xzy7ww2t']); // 【乱搞】P1835 素数密度
+// Algorithm tag map (lid -> [tags]) produced by the tagging pass; 题解 tags come
+// from here instead of the auto problem-number tags.
+let TAG_MAP = {};
+try { TAG_MAP = JSON.parse(fs.readFileSync(path.join(ROOT, 'migrate', 'tags.json'), 'utf8')); } catch {}
 const UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36';
 const SLEEP = ms => new Promise(r => setTimeout(r, ms));
 const BROWSER_HEADERS = {
@@ -127,13 +134,8 @@ function buildFrontMatter(art) {
   else if (art.solutionFor != null) cat = '题解';
   else cat = '随笔';
   const cats = [cat];
-  const isSolution = art.solutionFor != null;
-  const tags = new Set();
-  if (art.collection && art.collection.name) tags.add(art.collection.name);
-  if (isSolution && art.solutionFor) {
-    if (art.solutionFor.pid) tags.add(art.solutionFor.pid);
-    if (art.solutionFor.title) tags.add(art.solutionFor.title);
-  }
+  // Tags: algorithm tags from the tag map only (no problem-number / problem-name tags).
+  const tags = new Set(TAG_MAP[art.lid] || []);
   const L = ['---'];
   L.push('title: ' + yamlStr(art.title || art.lid));
   L.push('date: ' + fmtDate(art.time || Math.floor(Date.now() / 1000)));
@@ -241,6 +243,7 @@ async function main() {
       i++;
       process.stdout.write(`[${i}/${arts.length}] ${(art && art.lid) || '?'} ... `);
       if (art && art._error) { report.failed.push({ lid: art.lid, reason: art._error }); console.log('skip (' + art._error + ')'); continue; }
+      if (art && SKIP_LIDS.has(art.lid)) { console.log('skip (已删除)'); continue; }
       await emitArticle(art, report);
       const failed = report.failed.find(f => f.lid === (art && art.lid));
       console.log(failed ? 'FAIL ' + failed.reason : 'ok (img ' + report.ok[report.ok.length - 1].images + ')');
