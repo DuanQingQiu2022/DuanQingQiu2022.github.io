@@ -1,0 +1,78 @@
+---
+title: "【题解】CF1433C Dominant Piranha"
+date: 2021-03-07 22:15:11
+categories:
+  - "题解"
+tags:
+  - "CF1433C"
+luogu_lid: "nohvlnwh"
+luogu_category: 2
+original: "https://www.luogu.com.cn/article/nohvlnwh"
+disableNunjucks: true
+---
+
+[题目传送门](https://www.luogu.com.cn/problem/CF1433C)
+
+显然体积最大的鱼最有优势。如果只有一条体积最大的鱼，那么答案就是它。
+
+但是可能有很多条体积最大的鱼。那么体积最大，且能够吃掉别的鱼的鱼就是答案。
+
+那么只需要找到所有体积最大的鱼，然后按照条件枚举它左右的鱼是否体积都比它小即可。
+
+时间复杂度 $O(n)$。
+
+代码：
+```cpp
+#include<bits/stdc++.h>
+#include<iostream>
+#define ll long long
+#define back return
+#define ri register int 
+using namespace std;
+int read()
+{
+	int x=0,f=1;
+    char ch=getchar();
+	while(!isdigit(ch))
+    {
+        if (ch=='-') 
+            f=-1;
+        ch=getchar();
+    }
+	while(isdigit(ch))
+    {
+        x=x*10+ch-48;
+        ch=getchar();
+    }
+	back x*f;
+}
+bool flag;
+int t,n,a[300005];
+int main()
+{
+	cin>>t;
+	while(t--)
+	{
+		flag=0;
+		int maxx=-1e9;
+		n=read();
+		a[0]=a[n+1]=1e9;
+		for(ri i=1;i<=n;i++)
+		{
+			a[i]=read();
+			maxx=max(a[i],maxx);
+		}
+		for(ri i=1;i<=n;i++)
+			if(a[i]==maxx)
+				if(a[i]>a[i-1]||a[i]>a[i+1])
+				{
+					flag=1;
+					cout<<i<<endl;
+					break;
+				}		
+		if(flag==0)
+			cout<<-1<<endl;
+	}
+    back 0;
+}
+```

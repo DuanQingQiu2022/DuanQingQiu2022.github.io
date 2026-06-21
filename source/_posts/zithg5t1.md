@@ -1,0 +1,24 @@
+---
+title: "【题解】CF1612A Distance"
+date: 2021-11-23 07:34:54
+categories:
+  - "题解"
+tags:
+  - "CF1612A"
+luogu_lid: "zithg5t1"
+luogu_category: 2
+original: "https://www.luogu.com.cn/article/zithg5t1"
+disableNunjucks: true
+---
+
+[题目传送门](https://www.luogu.com.cn/problem/CF1612A)
+
+诈骗！！！
+
+题意是给定 $A(0,0)$ 和 $B(x,y)$，$0 \le x,y \le 50$，求是否有坐标均为非负整数的点 $C$，满足 $d(A,C)=d(B,C)=\dfrac{d(A,B)}{2}$。（$d(x,y)$ 表示 $x,y$ 之间的**曼哈顿距离**）
+
+这种一眼数学题本来以为放在 A 必有高论，然后想了半天发现数据范围 $0 \le x,y \le 50$，自闭了。
+
+考虑设 $C(i,j)$，显然有 $0 \le i \le x,0 \le j \le y$，于是直接暴力枚举 $i,j$ 即可。
+
+时间复杂度 $O(txy)$。

@@ -1,0 +1,56 @@
+---
+title: "【题解】CF690A1 Collective Mindsets (easy)"
+date: 2021-08-21 22:55:11
+categories:
+  - "题解"
+tags:
+  - "CF690A1"
+luogu_lid: "737pfmak"
+luogu_category: 2
+original: "https://www.luogu.com.cn/article/737pfmak"
+disableNunjucks: true
+---
+
+[题目传送门](https://www.luogu.com.cn/problem/CF690A1)
+
+经典的海盗分金币问题。与经典模型不同的地方是只要投反对票的人**不超过**半数，这个人就不会死，并且如果某个人当前分得的金币数**不优于**以后可能获得的最大金币数，也会投反对票。
+
+不过可以发现在这个问题中，这两个不同点都不是问题。因为第一个海盗至少要 $1$ 枚金币，所以他只会获得一枚金币，其余必须要花费的金币就要给那些编号为 $2$ 的海盗不会给金币的海盗们，于是他的最佳分配方案必然是 $1010101…$ 依次分配，与经典模型的分配规律完全一致。
+
+因此答案就是 $\left\lceil\dfrac{n}{2}\right\rceil$。
+
+时间复杂度 $O(1)$。
+
+代码：
+```cpp
+#include<bits/stdc++.h>
+#define ll long long
+#define back return
+#define ri register int
+#define ull unsigned ll
+using namespace std;
+int read()
+{
+	int x=0,f=1;
+	char ch=getchar();
+	while(ch<'0'||ch>'9')
+	{
+		if(ch=='-')
+			f=-1;
+		ch=getchar();
+	}
+	while(ch>='0'&&ch<='9')
+	{
+		x=x*10+ch-'0';
+		ch=getchar();
+	}
+	back x*f;
+}
+ll t,n,s;
+int main()
+{
+	n=read();
+	cout<<(n+1)/2<<"\n";
+	back 0;
+}
+```

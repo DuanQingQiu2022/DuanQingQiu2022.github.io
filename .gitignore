@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+.deploy*/
+_multiconfig.yml
+
+# migration transient data (keep migrate/*.mjs, ignore fetched/generated JSON)
+migrate/*.json
+/luogu-articles.json
+_probe*.html
+_safe.html

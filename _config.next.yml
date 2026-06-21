@@ -1,0 +1,56 @@
+# NexT theme config — overrides node_modules/hexo-theme-next/_config.yml
+# Docs: https://theme-next.js.org/
+
+# Scheme: Muse | Mist | Pisces | Gemini
+scheme: Gemini
+
+# Menu
+menu:
+  home: / || fa fa-home
+  archives: /archives/ || fa fa-archive
+  categories: /categories/ || fa fa-th
+  tags: /tags/ || fa fa-tags
+  about: /about/ || fa fa-user
+
+# Sidebar avatar
+avatar:
+  url: /images/avatar.png
+  rounded: true
+
+# Social links
+social:
+  洛谷: https://www.luogu.com.cn/user/93266 || fa fa-code
+  GitHub: https://github.com/DuanQingQiu2022 || fab fa-github
+
+# Code blocks
+codeblock:
+  theme:
+    light: default
+    dark: dark
+  copy_button:
+    enable: true
+    style: mac
+
+# Table of contents
+toc:
+  enable: true
+  number: true
+  max_depth: 3
+
+# Math equations — KaTeX (pre-rendered server-side by @renbaoshuo/markdown-it-katex)
+math:
+  every_page: true
+  mathjax:
+    enable: false
+  katex:
+    enable: true
+    copy_tex: false
+
+# Misc niceties
+back2top:
+  enable: true
+  sidebar: false
+  scrollpercent: true
+reading_progress:
+  enable: true
+  position: top
