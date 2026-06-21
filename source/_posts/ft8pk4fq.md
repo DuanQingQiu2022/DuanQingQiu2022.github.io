@@ -5,7 +5,6 @@ categories:
   - "题解"
 tags:
   - "概率与期望"
-  - "递推"
   - "数论"
 luogu_lid: "ft8pk4fq"
 luogu_category: 2

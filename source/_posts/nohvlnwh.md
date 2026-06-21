@@ -4,7 +4,7 @@ date: 2021-03-07 22:15:11
 categories:
   - "题解"
 tags:
-  - "贪心"
+  - "adhoc"
 luogu_lid: "nohvlnwh"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/nohvlnwh"

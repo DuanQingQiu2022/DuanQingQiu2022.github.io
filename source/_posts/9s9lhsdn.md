@@ -4,7 +4,7 @@ date: 2021-10-19 19:18:48
 categories:
   - "题解"
 tags:
-  - "模拟"
+  - "枚举"
 luogu_lid: "9s9lhsdn"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/9s9lhsdn"

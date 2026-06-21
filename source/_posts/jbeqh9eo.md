@@ -6,7 +6,6 @@ categories:
 tags:
   - "概率与期望"
   - "动态规划"
-  - "递推"
 luogu_lid: "jbeqh9eo"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/jbeqh9eo"

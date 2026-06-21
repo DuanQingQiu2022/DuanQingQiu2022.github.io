@@ -5,7 +5,6 @@ categories:
   - "题解"
 tags:
   - "二分"
-  - "排序"
 luogu_lid: "v28x5xsw"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/v28x5xsw"

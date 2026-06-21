@@ -5,8 +5,8 @@ categories:
   - "题解"
 tags:
   - "数学"
-  - "逆元"
   - "计算几何"
+  - "逆元"
 luogu_lid: "y6re06pk"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/y6re06pk"

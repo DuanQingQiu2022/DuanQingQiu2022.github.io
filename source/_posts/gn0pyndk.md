@@ -6,7 +6,6 @@ categories:
 tags:
   - "数学"
   - "容斥原理"
-  - "质数"
 luogu_lid: "gn0pyndk"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/gn0pyndk"

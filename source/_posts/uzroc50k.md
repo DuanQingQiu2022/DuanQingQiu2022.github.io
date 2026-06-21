@@ -5,7 +5,6 @@ categories:
   - "题解"
 tags:
   - "数论"
-  - "分块"
 luogu_lid: "uzroc50k"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/uzroc50k"

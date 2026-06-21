@@ -4,8 +4,7 @@ date: 2021-08-21 23:38:33
 categories:
   - "题解"
 tags:
-  - "博弈论"
-  - "数学"
+  - "adhoc"
 luogu_lid: "xr2angyf"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/xr2angyf"

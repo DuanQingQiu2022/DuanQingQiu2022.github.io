@@ -5,7 +5,6 @@ categories:
   - "题解"
 tags:
   - "贪心"
-  - "网络流"
 luogu_lid: "9n0ou4ib"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/9n0ou4ib"

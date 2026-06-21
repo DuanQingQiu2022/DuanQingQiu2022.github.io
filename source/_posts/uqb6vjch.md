@@ -4,7 +4,6 @@ date: 2021-09-13 14:11:17
 categories:
   - "题解"
 tags:
-  - "递推"
   - "组合数学"
 luogu_lid: "uqb6vjch"
 luogu_category: 2

@@ -3,10 +3,6 @@ title: "【题解】CF1114（Div 2）"
 date: 2022-12-02 00:18:38
 categories:
   - "题解"
-tags:
-  - "区间DP"
-  - "数论"
-  - "线段树"
 luogu_lid: "nsnhwf0d"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/nsnhwf0d"

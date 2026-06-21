@@ -4,8 +4,7 @@ date: 2021-08-21 22:55:11
 categories:
   - "题解"
 tags:
-  - "博弈论"
-  - "数学"
+  - "adhoc"
 luogu_lid: "737pfmak"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/737pfmak"

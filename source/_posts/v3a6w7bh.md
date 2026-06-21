@@ -6,7 +6,6 @@ categories:
 tags:
   - "构造"
   - "贪心"
-  - "差分"
 luogu_lid: "v3a6w7bh"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/v3a6w7bh"

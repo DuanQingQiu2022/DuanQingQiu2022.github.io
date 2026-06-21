@@ -4,7 +4,7 @@ date: 2022-03-21 21:34:46
 categories:
   - "题解"
 tags:
-  - "分数规划"
+  - "随机化"
 luogu_lid: "3ej0mttg"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/3ej0mttg"

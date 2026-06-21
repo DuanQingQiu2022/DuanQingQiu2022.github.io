@@ -4,8 +4,7 @@ date: 2022-03-22 10:19:23
 categories:
   - "题解"
 tags:
-  - "搜索"
-  - "贪心"
+  - "随机化"
 luogu_lid: "yqdkm1zd"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/yqdkm1zd"

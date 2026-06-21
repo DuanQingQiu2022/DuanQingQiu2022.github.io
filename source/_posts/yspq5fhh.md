@@ -6,7 +6,6 @@ categories:
 tags:
   - "最短路"
   - "BFS"
-  - "递推"
 luogu_lid: "yspq5fhh"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/yspq5fhh"

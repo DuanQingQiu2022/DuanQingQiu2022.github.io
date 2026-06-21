@@ -5,7 +5,6 @@ categories:
   - "题解"
 tags:
   - "构造"
-  - "贪心"
 luogu_lid: "j3fmuzro"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/j3fmuzro"

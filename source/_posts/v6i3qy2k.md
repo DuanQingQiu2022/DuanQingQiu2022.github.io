@@ -4,7 +4,6 @@ date: 2021-07-28 21:51:05
 categories:
   - "题解"
 tags:
-  - "字符串"
   - "模拟"
 luogu_lid: "v6i3qy2k"
 luogu_category: 2

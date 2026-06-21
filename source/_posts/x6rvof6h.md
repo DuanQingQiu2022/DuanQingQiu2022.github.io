@@ -5,7 +5,6 @@ categories:
   - "题解"
 tags:
   - "前缀和"
-  - "贪心"
 luogu_lid: "x6rvof6h"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/x6rvof6h"

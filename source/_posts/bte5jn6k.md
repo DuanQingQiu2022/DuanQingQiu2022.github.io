@@ -4,8 +4,8 @@ date: 2022-11-12 18:27:40
 categories:
   - "题解"
 tags:
-  - "哈希"
   - "图论"
+  - "随机化"
 luogu_lid: "bte5jn6k"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/bte5jn6k"

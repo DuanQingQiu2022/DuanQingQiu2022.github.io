@@ -5,7 +5,6 @@ categories:
   - "题解"
 tags:
   - "数论"
-  - "数学"
 luogu_lid: "ag9pbgj1"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/ag9pbgj1"

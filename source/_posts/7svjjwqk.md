@@ -4,7 +4,6 @@ date: 2022-03-29 17:56:10
 categories:
   - "题解"
 tags:
-  - "模拟"
   - "堆"
 luogu_lid: "7svjjwqk"
 luogu_category: 2

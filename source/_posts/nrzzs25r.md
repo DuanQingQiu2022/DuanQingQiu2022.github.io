@@ -5,7 +5,6 @@ categories:
   - "题解"
 tags:
   - "贪心"
-  - "模拟"
 luogu_lid: "nrzzs25r"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/nrzzs25r"

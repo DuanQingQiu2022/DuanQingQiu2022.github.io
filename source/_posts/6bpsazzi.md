@@ -4,7 +4,7 @@ date: 2021-08-28 18:40:10
 categories:
   - "题解"
 tags:
-  - "模拟"
+  - "adhoc"
 luogu_lid: "6bpsazzi"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/6bpsazzi"

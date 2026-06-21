@@ -5,8 +5,8 @@ categories:
   - "题解"
 tags:
   - "逆元"
-  - "前缀和"
   - "快速幂"
+  - "前缀和"
 luogu_lid: "2wexelap"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/2wexelap"

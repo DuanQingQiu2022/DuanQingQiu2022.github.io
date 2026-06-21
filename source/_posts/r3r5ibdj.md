@@ -4,8 +4,7 @@ date: 2021-07-31 21:53:46
 categories:
   - "题解"
 tags:
-  - "数学"
-  - "贪心"
+  - "adhoc"
 luogu_lid: "r3r5ibdj"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/r3r5ibdj"

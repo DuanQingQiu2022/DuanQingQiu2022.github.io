@@ -5,7 +5,6 @@ categories:
   - "题解"
 tags:
   - "概率与期望"
-  - "贪心"
 luogu_lid: "ie92v9ao"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/ie92v9ao"

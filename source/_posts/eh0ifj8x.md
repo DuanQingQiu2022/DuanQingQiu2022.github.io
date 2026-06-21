@@ -4,7 +4,7 @@ date: 2022-07-08 15:48:02
 categories:
   - "题解"
 tags:
-  - "构造"
+  - "adhoc"
 luogu_lid: "eh0ifj8x"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/eh0ifj8x"

@@ -4,7 +4,7 @@ date: 2026-02-12 09:10:04
 categories:
   - "题解"
 tags:
-  - "分块"
+  - "根号分治"
 luogu_lid: "prbupw7w"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/prbupw7w"

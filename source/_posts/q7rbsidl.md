@@ -5,7 +5,6 @@ categories:
   - "题解"
 tags:
   - "概率与期望"
-  - "数学"
 luogu_lid: "q7rbsidl"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/q7rbsidl"

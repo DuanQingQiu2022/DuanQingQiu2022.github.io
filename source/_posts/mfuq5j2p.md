@@ -5,7 +5,6 @@ categories:
   - "题解"
 tags:
   - "分块"
-  - "数论"
 luogu_lid: "mfuq5j2p"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/mfuq5j2p"

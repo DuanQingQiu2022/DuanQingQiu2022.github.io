@@ -4,8 +4,7 @@ date: 2021-03-27 18:54:14
 categories:
   - "题解"
 tags:
-  - "构造"
-  - "模拟"
+  - "分类讨论"
 luogu_lid: "v1sbtyn6"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/v1sbtyn6"

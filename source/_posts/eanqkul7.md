@@ -4,8 +4,8 @@ date: 2021-10-15 19:37:26
 categories:
   - "题解"
 tags:
-  - "概率DP"
   - "概率与期望"
+  - "动态规划"
   - "前缀和"
 luogu_lid: "eanqkul7"
 luogu_category: 2

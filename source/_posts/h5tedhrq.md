@@ -4,7 +4,7 @@ date: 2022-02-22 21:16:05
 categories:
   - "题解"
 tags:
-  - "排序"
+  - "adhoc"
 luogu_lid: "h5tedhrq"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/h5tedhrq"

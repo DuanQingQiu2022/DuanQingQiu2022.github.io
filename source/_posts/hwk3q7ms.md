@@ -4,8 +4,7 @@ date: 2022-07-22 19:55:26
 categories:
   - "题解"
 tags:
-  - "LCA"
-  - "搜索"
+  - "交互"
 luogu_lid: "hwk3q7ms"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/hwk3q7ms"

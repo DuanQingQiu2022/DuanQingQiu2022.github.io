@@ -4,8 +4,7 @@ date: 2021-07-25 20:52:58
 categories:
   - "题解"
 tags:
-  - "构造"
-  - "数学"
+  - "分类讨论"
 luogu_lid: "2g6dabvb"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/2g6dabvb"

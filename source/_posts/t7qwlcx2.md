@@ -6,7 +6,6 @@ categories:
 tags:
   - "manacher"
   - "字符串"
-  - "递推"
 luogu_lid: "t7qwlcx2"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/t7qwlcx2"

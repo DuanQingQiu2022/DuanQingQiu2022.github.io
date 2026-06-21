@@ -4,8 +4,7 @@ date: 2022-12-27 22:04:26
 categories:
   - "题解"
 tags:
-  - "构造"
-  - "字符串"
+  - "adhoc"
 luogu_lid: "s2wtwgq4"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/s2wtwgq4"

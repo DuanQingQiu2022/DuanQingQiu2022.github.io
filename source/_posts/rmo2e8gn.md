@@ -4,7 +4,6 @@ date: 2021-12-04 22:55:41
 categories:
   - "题解"
 tags:
-  - "数学"
   - "容斥原理"
 luogu_lid: "rmo2e8gn"
 luogu_category: 2

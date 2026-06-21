@@ -4,7 +4,6 @@ date: 2022-11-05 23:45:57
 categories:
   - "题解"
 tags:
-  - "最短路"
   - "BFS"
   - "排序"
 luogu_lid: "nbv47f6c"

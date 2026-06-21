@@ -5,7 +5,6 @@ categories:
   - "题解"
 tags:
   - "构造"
-  - "模拟"
 luogu_lid: "6n7kcihs"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/6n7kcihs"

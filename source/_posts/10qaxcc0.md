@@ -4,7 +4,6 @@ date: 2021-10-12 13:25:48
 categories:
   - "题解"
 tags:
-  - "贪心"
   - "博弈论"
 luogu_lid: "10qaxcc0"
 luogu_category: 2

@@ -4,8 +4,7 @@ date: 2022-02-26 20:54:32
 categories:
   - "题解"
 tags:
-  - "计算几何"
-  - "模拟"
+  - "adhoc"
 luogu_lid: "esloxgon"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/esloxgon"

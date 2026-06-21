@@ -4,7 +4,7 @@ date: 2021-11-23 07:34:54
 categories:
   - "题解"
 tags:
-  - "数学"
+  - "枚举"
 luogu_lid: "zithg5t1"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/zithg5t1"

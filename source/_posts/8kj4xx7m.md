@@ -4,7 +4,6 @@ date: 2025-02-11 23:19:34
 categories:
   - "题解"
 tags:
-  - "数学"
   - "数论"
 luogu_lid: "8kj4xx7m"
 luogu_category: 2

@@ -4,7 +4,7 @@ date: 2022-04-05 20:04:25
 categories:
   - "题解"
 tags:
-  - "平衡树"
+  - "adhoc"
 luogu_lid: "7alx9g1y"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/7alx9g1y"

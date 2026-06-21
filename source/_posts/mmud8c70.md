@@ -5,7 +5,6 @@ categories:
   - "题解"
 tags:
   - "双指针"
-  - "递推"
 luogu_lid: "mmud8c70"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/mmud8c70"

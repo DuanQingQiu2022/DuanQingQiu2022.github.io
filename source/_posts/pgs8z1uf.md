@@ -5,7 +5,6 @@ categories:
   - "题解"
 tags:
   - "组合数学"
-  - "容斥原理"
   - "双指针"
 luogu_lid: "pgs8z1uf"
 luogu_category: 2

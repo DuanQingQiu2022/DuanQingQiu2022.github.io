@@ -5,7 +5,6 @@ categories:
   - "题解"
 tags:
   - "数学"
-  - "递推"
 luogu_lid: "f08jnocq"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/f08jnocq"

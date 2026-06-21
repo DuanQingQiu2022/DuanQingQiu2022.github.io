@@ -4,8 +4,8 @@ date: 2026-01-11 04:24:31
 categories:
   - "题解"
 tags:
-  - "背包"
   - "动态规划"
+  - "背包"
 luogu_lid: "t9qhsr1s"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/t9qhsr1s"

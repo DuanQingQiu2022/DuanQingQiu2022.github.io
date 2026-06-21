@@ -5,7 +5,6 @@ categories:
   - "题解"
 tags:
   - "组合数学"
-  - "数学"
 luogu_lid: "iha9oqlp"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/iha9oqlp"

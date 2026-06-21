@@ -4,8 +4,8 @@ date: 2023-02-20 12:34:38
 categories:
   - "题解"
 tags:
-  - "背包"
   - "动态规划"
+  - "背包"
 luogu_lid: "c8kiidbb"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/c8kiidbb"

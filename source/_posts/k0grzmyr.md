@@ -5,7 +5,6 @@ categories:
   - "题解"
 tags:
   - "贪心"
-  - "模拟"
   - "单调队列"
 luogu_lid: "k0grzmyr"
 luogu_category: 2
