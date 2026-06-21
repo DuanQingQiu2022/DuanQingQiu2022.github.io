@@ -2,7 +2,7 @@
 title: "【题解】P1525 [NOIP2010 提高组] 关押罪犯"
 date: 2021-09-28 13:21:38
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "j7c8ku5x"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/j7c8ku5x"

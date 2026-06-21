@@ -2,7 +2,7 @@
 title: "【题解】P1880 [NOI1995] 石子合并"
 date: 2021-08-28 17:03:04
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "m8vyctfy"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/m8vyctfy"

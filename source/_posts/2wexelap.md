@@ -2,7 +2,7 @@
 title: "【题解】P5431 【模板】乘法逆元 2"
 date: 2021-09-07 13:24:16
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "2wexelap"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/2wexelap"

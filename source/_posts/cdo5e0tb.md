@@ -2,7 +2,7 @@
 title: "【游记】CSP 2022 游记"
 date: 2022-10-31 23:48:24
 categories:
-  - "文章"
+  - "游记"
 luogu_lid: "cdo5e0tb"
 luogu_category: 5
 original: "https://www.luogu.com.cn/article/cdo5e0tb"

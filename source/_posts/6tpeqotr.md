@@ -2,7 +2,7 @@
 title: "【题解】CF1436B Prime Square"
 date: 2021-03-29 21:39:33
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "6tpeqotr"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/6tpeqotr"

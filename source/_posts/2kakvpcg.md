@@ -2,7 +2,7 @@
 title: "【题解】SP116 INTERVAL - Intervals"
 date: 2023-03-10 08:45:01
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "2kakvpcg"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/2kakvpcg"

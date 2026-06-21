@@ -2,7 +2,7 @@
 title: "【总结】随机选做 CF 系列合集"
 date: 2022-10-11 20:27:23
 categories:
-  - "文章"
+  - "总结"
 luogu_lid: "myyzc9bv"
 luogu_category: 1
 original: "https://www.luogu.com.cn/article/myyzc9bv"

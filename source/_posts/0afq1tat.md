@@ -2,7 +2,7 @@
 title: "【题解】CF525E Anya and Cubes"
 date: 2022-05-18 13:18:30
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "0afq1tat"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/0afq1tat"

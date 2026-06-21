@@ -2,7 +2,7 @@
 title: "【题解】P3709 大爷的字符串题"
 date: 2022-02-03 22:51:12
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "az1sivhx"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/az1sivhx"

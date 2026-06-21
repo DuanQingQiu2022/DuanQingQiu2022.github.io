@@ -2,7 +2,7 @@
 title: "【题解】CF632E Thief in a Shop"
 date: 2023-02-20 12:34:38
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "c8kiidbb"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/c8kiidbb"

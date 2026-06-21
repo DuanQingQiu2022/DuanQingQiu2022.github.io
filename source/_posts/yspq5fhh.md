@@ -2,7 +2,7 @@
 title: "【题解】P1144 最短路计数"
 date: 2022-02-25 23:25:14
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "yspq5fhh"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/yspq5fhh"

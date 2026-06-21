@@ -2,7 +2,7 @@
 title: "【题解】[POI2008]BLO-Blockade"
 date: 2022-06-16 17:44:54
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "lgobzjpb"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/lgobzjpb"

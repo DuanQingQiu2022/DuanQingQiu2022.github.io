@@ -2,7 +2,7 @@
 title: "【总结】24OI集训 20210811"
 date: 2021-08-12 00:03:05
 categories:
-  - "文章"
+  - "总结"
 luogu_lid: "ktaec64l"
 luogu_category: 1
 original: "https://www.luogu.com.cn/article/ktaec64l"

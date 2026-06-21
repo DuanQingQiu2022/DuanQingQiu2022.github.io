@@ -2,7 +2,7 @@
 title: "【游记】LNOI 2022 被虐记"
 date: 2022-05-28 23:05:42
 categories:
-  - "文章"
+  - "游记"
 luogu_lid: "8scprcua"
 luogu_category: 5
 original: "https://www.luogu.com.cn/article/8scprcua"

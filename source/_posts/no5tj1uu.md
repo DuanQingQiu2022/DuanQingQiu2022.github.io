@@ -2,7 +2,7 @@
 title: "【题解】P2340 [USACO03FALL]Cow Exhibition G"
 date: 2021-11-12 10:09:38
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "no5tj1uu"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/no5tj1uu"

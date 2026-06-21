@@ -2,7 +2,7 @@
 title: "【题解】P3805 【模板】manacher 算法"
 date: 2021-08-04 15:44:31
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "vmxx3qr9"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/vmxx3qr9"

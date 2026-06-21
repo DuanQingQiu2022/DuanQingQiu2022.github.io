@@ -2,7 +2,7 @@
 title: "【笔记】Lagrange 插值与 Newton 插值"
 date: 2025-11-19 22:12:34
 categories:
-  - "文章"
+  - "笔记"
 luogu_lid: "nc03ksi4"
 luogu_category: 4
 original: "https://www.luogu.com.cn/article/nc03ksi4"

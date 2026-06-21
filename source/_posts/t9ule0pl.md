@@ -2,7 +2,7 @@
 title: "【题解】CF1728（Div 2）"
 date: 2022-10-04 10:35:33
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "t9ule0pl"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/t9ule0pl"

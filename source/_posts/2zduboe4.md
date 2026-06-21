@@ -2,7 +2,7 @@
 title: "【题解】P1020 [NOIP1999 普及组] 导弹拦截"
 date: 2021-09-24 23:22:17
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "2zduboe4"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/2zduboe4"

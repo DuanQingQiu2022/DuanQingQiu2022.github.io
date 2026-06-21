@@ -2,7 +2,7 @@
 title: "【总结】省选计划模拟赛#5 20220109"
 date: 2022-01-09 21:11:34
 categories:
-  - "文章"
+  - "总结"
 luogu_lid: "5wni6lqg"
 luogu_category: 1
 original: "https://www.luogu.com.cn/article/5wni6lqg"

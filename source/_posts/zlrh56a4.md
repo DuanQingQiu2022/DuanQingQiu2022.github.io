@@ -2,7 +2,7 @@
 title: "【游记】NOI Online 2021 #1 J"
 date: 2021-03-27 18:16:11
 categories:
-  - "文章"
+  - "游记"
 luogu_lid: "zlrh56a4"
 luogu_category: 5
 original: "https://www.luogu.com.cn/article/zlrh56a4"

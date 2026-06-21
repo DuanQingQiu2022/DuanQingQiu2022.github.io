@@ -2,7 +2,7 @@
 title: "【总结】省选计划模拟赛#3 20211226"
 date: 2021-12-27 23:50:53
 categories:
-  - "文章"
+  - "总结"
 luogu_lid: "0exosv1p"
 luogu_category: 1
 original: "https://www.luogu.com.cn/article/0exosv1p"

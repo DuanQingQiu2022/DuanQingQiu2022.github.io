@@ -2,7 +2,7 @@
 title: "【总结】省选模拟赛（后期）#6"
 date: 2022-02-27 21:55:26
 categories:
-  - "文章"
+  - "总结"
 luogu_lid: "olt950as"
 luogu_category: 1
 original: "https://www.luogu.com.cn/article/olt950as"

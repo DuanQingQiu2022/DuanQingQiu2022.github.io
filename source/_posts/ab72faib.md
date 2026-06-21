@@ -2,7 +2,7 @@
 title: "【笔记】Python 学习"
 date: 2025-03-18 21:57:37
 categories:
-  - "文章"
+  - "笔记"
 luogu_lid: "ab72faib"
 luogu_category: 1
 original: "https://www.luogu.com.cn/article/ab72faib"

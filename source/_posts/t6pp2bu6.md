@@ -2,7 +2,7 @@
 title: "【题解】P10904 [蓝桥杯 2024 省 C] 挖矿"
 date: 2025-02-04 16:39:09
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "t6pp2bu6"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/t6pp2bu6"

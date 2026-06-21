@@ -2,7 +2,7 @@
 title: "【题解】P3913 车的攻击"
 date: 2021-12-04 22:55:41
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "rmo2e8gn"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/rmo2e8gn"

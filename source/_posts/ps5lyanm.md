@@ -2,7 +2,7 @@
 title: "【游记】NOI 2022 游记"
 date: 2022-08-12 20:21:37
 categories:
-  - "文章"
+  - "游记"
 luogu_lid: "ps5lyanm"
 luogu_category: 5
 original: "https://www.luogu.com.cn/article/ps5lyanm"

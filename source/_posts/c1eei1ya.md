@@ -2,7 +2,7 @@
 title: "【题解】CF468B Two Sets"
 date: 2023-02-18 22:51:14
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "c1eei1ya"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/c1eei1ya"

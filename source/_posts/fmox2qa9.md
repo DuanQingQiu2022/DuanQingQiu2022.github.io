@@ -2,7 +2,7 @@
 title: "【笔记】最小二乘法"
 date: 2025-12-10 14:03:31
 categories:
-  - "文章"
+  - "笔记"
 luogu_lid: "fmox2qa9"
 luogu_category: 4
 original: "https://www.luogu.com.cn/article/fmox2qa9"

@@ -2,7 +2,7 @@
 title: "【题解】SP1026 FAVDICE - Favorite Dice"
 date: 2021-10-14 19:20:25
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "jbeqh9eo"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/jbeqh9eo"

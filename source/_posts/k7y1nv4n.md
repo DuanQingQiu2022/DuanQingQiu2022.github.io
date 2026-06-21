@@ -2,7 +2,7 @@
 title: "【题解】P1120 小木棍 ［数据加强版］"
 date: 2021-10-09 13:07:34
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "k7y1nv4n"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/k7y1nv4n"

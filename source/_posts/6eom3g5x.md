@@ -2,7 +2,7 @@
 title: "【题解】P3398 仓鼠找 sugar"
 date: 2022-04-14 17:14:11
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "6eom3g5x"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/6eom3g5x"

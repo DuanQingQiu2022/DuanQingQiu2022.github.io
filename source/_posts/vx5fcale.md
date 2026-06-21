@@ -2,7 +2,7 @@
 title: "【史记】LN 大陆修真录"
 date: 2022-09-10 12:01:24
 categories:
-  - "文章"
+  - "史记"
 luogu_lid: "vx5fcale"
 luogu_category: 1
 original: "https://www.luogu.com.cn/article/vx5fcale"

@@ -2,7 +2,7 @@
 title: "【题解】CF2196A Game with a Fraction"
 date: 2026-02-12 09:00:29
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "ui7vmo19"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/ui7vmo19"

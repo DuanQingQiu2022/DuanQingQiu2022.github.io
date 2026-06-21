@@ -2,7 +2,7 @@
 title: "【游记】WC 2022 冬眠记"
 date: 2022-01-25 22:20:52
 categories:
-  - "文章"
+  - "游记"
 luogu_lid: "9rlhcngt"
 luogu_category: 5
 original: "https://www.luogu.com.cn/article/9rlhcngt"

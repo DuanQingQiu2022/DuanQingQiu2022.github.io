@@ -2,7 +2,7 @@
 title: "【题解】P2647 最大收益"
 date: 2022-06-08 15:53:40
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "tgd0sdtd"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/tgd0sdtd"

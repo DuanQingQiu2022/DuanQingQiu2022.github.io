@@ -2,7 +2,7 @@
 title: "【题解】CF1695（Div 2）"
 date: 2022-10-14 23:51:39
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "8svtxvg5"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/8svtxvg5"

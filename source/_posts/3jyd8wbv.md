@@ -2,7 +2,7 @@
 title: "【题解】P1119 灾后重建"
 date: 2022-01-08 23:38:21
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "3jyd8wbv"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/3jyd8wbv"

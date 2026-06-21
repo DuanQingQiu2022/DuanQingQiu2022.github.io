@@ -2,7 +2,7 @@
 title: "【题解】P2765 魔术球问题"
 date: 2022-06-09 16:25:32
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "9n0ou4ib"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/9n0ou4ib"

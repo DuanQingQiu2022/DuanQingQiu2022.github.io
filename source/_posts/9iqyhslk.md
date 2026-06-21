@@ -2,7 +2,7 @@
 title: "2022 年 7 月 6 日 闲话"
 date: 2022-07-06 23:47:44
 categories:
-  - "文章"
+  - "闲话"
 luogu_lid: "9iqyhslk"
 luogu_category: 8
 original: "https://www.luogu.com.cn/article/9iqyhslk"

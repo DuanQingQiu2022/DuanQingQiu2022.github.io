@@ -2,7 +2,7 @@
 title: "【总结】24OI集训 20210812"
 date: 2021-08-12 13:46:43
 categories:
-  - "文章"
+  - "总结"
 luogu_lid: "ia33z7mg"
 luogu_category: 1
 original: "https://www.luogu.com.cn/article/ia33z7mg"

@@ -2,7 +2,7 @@
 title: "【题解】P7113 [NOIP2020] 排水系统"
 date: 2022-03-04 23:22:59
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "jyvgtqyu"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/jyvgtqyu"

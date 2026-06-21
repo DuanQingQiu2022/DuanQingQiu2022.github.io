@@ -2,7 +2,7 @@
 title: "【笔记】普通辛普森法与自适应辛普森法"
 date: 2025-12-20 12:14:51
 categories:
-  - "文章"
+  - "笔记"
 luogu_lid: "m5dpurf3"
 luogu_category: 4
 original: "https://www.luogu.com.cn/article/m5dpurf3"

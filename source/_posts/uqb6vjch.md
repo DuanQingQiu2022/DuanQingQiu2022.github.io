@@ -2,7 +2,7 @@
 title: "【题解】P1595 信封问题（【模板】错位排列 ）"
 date: 2021-09-13 14:11:17
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "uqb6vjch"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/uqb6vjch"

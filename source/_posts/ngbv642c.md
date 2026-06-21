@@ -2,7 +2,7 @@
 title: "【总结】24OI集训 20210809"
 date: 2021-08-09 16:12:08
 categories:
-  - "文章"
+  - "总结"
 luogu_lid: "ngbv642c"
 luogu_category: 1
 original: "https://www.luogu.com.cn/article/ngbv642c"

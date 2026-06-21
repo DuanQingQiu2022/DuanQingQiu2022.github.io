@@ -117,8 +117,17 @@ async function downloadImage(url, destDir, idx) {
 }
 
 function buildFrontMatter(art) {
+  const title = art.title || '';
+  // Category from the title's 【…】 prefix (e.g. 【题解】/【笔记】/【游记】); fall back to
+  // 闲话 for the few bracket-less "…闲话" posts, then solutionFor, then 随笔.
+  const pm = title.match(/^\s*【([^】]+)】/);
+  let cat;
+  if (pm) cat = pm[1].trim();
+  else if (title.includes('闲话')) cat = '闲话';
+  else if (art.solutionFor != null) cat = '题解';
+  else cat = '随笔';
+  const cats = [cat];
   const isSolution = art.solutionFor != null;
-  const cats = [isSolution ? '题解' : '文章'];
   const tags = new Set();
   if (art.collection && art.collection.name) tags.add(art.collection.name);
   if (isSolution && art.solutionFor) {

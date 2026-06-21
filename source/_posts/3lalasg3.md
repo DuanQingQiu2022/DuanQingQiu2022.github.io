@@ -2,7 +2,7 @@
 title: "【游记】GDCPC 2025 游记"
 date: 2025-06-03 00:57:50
 categories:
-  - "文章"
+  - "游记"
 luogu_lid: "3lalasg3"
 luogu_category: 5
 original: "https://www.luogu.com.cn/article/3lalasg3"

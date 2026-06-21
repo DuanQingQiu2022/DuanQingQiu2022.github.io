@@ -2,7 +2,7 @@
 title: "【笔记】Bellman-Ford 与 SPFA"
 date: 2022-03-11 17:13:03
 categories:
-  - "文章"
+  - "笔记"
 luogu_lid: "ytqo4hui"
 luogu_category: 1
 original: "https://www.luogu.com.cn/article/ytqo4hui"

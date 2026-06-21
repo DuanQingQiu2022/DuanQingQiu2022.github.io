@@ -2,7 +2,7 @@
 title: "【游记】THUPC2022 初赛自闭记"
 date: 2022-03-12 22:22:23
 categories:
-  - "文章"
+  - "游记"
 luogu_lid: "0kmglkjy"
 luogu_category: 5
 original: "https://www.luogu.com.cn/article/0kmglkjy"

@@ -2,7 +2,7 @@
 title: "【题解】P8365 [LNOI2022] 吃"
 date: 2022-05-28 23:12:16
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "65lydyf7"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/65lydyf7"

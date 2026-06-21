@@ -2,7 +2,7 @@
 title: "【闲话】2022 年 8 月 1 日 闲话（你问我答）"
 date: 2022-08-01 22:56:44
 categories:
-  - "文章"
+  - "闲话"
 luogu_lid: "b005jxuc"
 luogu_category: 8
 original: "https://www.luogu.com.cn/article/b005jxuc"

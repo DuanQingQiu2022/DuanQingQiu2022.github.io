@@ -2,7 +2,7 @@
 title: "【题解】P1199 [NOIP2010 普及组] 三国游戏"
 date: 2021-10-12 13:25:48
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "10qaxcc0"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/10qaxcc0"

@@ -2,7 +2,7 @@
 title: "【题解】P2827 [NOIP2016 提高组] 蚯蚓"
 date: 2021-12-10 23:31:17
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "72sqwrcr"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/72sqwrcr"

@@ -2,7 +2,7 @@
 title: "【笔记】合作博弈中的 Core 与 Shapley Value"
 date: 2025-12-24 19:25:24
 categories:
-  - "文章"
+  - "笔记"
 luogu_lid: "i9lbf1sz"
 luogu_category: 4
 original: "https://www.luogu.com.cn/article/i9lbf1sz"

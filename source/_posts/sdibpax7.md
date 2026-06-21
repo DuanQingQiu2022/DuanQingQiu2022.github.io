@@ -2,7 +2,7 @@
 title: "【闲话】2022 年 8 月 5 日 闲话"
 date: 2022-08-05 22:52:22
 categories:
-  - "文章"
+  - "闲话"
 luogu_lid: "sdibpax7"
 luogu_category: 8
 original: "https://www.luogu.com.cn/article/sdibpax7"

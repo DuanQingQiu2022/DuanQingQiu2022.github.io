@@ -2,7 +2,7 @@
 title: "【游记】2021大连中考游记"
 date: 2021-06-29 12:30:44
 categories:
-  - "文章"
+  - "游记"
 luogu_lid: "f05j4owc"
 luogu_category: 1
 original: "https://www.luogu.com.cn/article/f05j4owc"

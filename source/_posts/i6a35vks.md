@@ -2,7 +2,7 @@
 title: "2022 年 7 月 13 日闲话"
 date: 2022-07-13 14:37:49
 categories:
-  - "文章"
+  - "闲话"
 luogu_lid: "i6a35vks"
 luogu_category: 8
 original: "https://www.luogu.com.cn/article/i6a35vks"

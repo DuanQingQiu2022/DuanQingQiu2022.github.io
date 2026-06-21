@@ -2,7 +2,7 @@
 title: "【题解】CF1375G Tree Modification"
 date: 2022-10-27 11:05:10
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "avqsgawx"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/avqsgawx"

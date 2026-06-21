@@ -2,7 +2,7 @@
 title: "【总结】省选计划模拟赛#6 20220116"
 date: 2022-01-17 23:58:50
 categories:
-  - "文章"
+  - "总结"
 luogu_lid: "sek17vrw"
 luogu_category: 1
 original: "https://www.luogu.com.cn/article/sek17vrw"

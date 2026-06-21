@@ -2,7 +2,7 @@
 title: "【题解】P1417 烹调方案"
 date: 2022-04-05 16:45:48
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "xyizdzb7"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/xyizdzb7"

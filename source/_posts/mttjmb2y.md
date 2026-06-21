@@ -2,7 +2,7 @@
 title: "【总结】省选计划模拟赛#8 20220130"
 date: 2022-01-30 22:14:43
 categories:
-  - "文章"
+  - "总结"
 luogu_lid: "mttjmb2y"
 luogu_category: 1
 original: "https://www.luogu.com.cn/article/mttjmb2y"

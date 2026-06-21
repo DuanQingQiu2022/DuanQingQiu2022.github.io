@@ -2,7 +2,7 @@
 title: "【题解】P4168 [Violet]蒲公英"
 date: 2022-01-22 22:53:51
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "na1shawm"
 luogu_category: 1
 original: "https://www.luogu.com.cn/article/na1shawm"

@@ -2,7 +2,7 @@
 title: "【题解】CF77A（Div 1）"
 date: 2023-02-03 23:52:29
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "rxo2xgos"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/rxo2xgos"

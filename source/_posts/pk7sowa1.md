@@ -2,7 +2,7 @@
 title: "【总结】24OI集训 20210816"
 date: 2021-08-16 23:23:52
 categories:
-  - "文章"
+  - "总结"
 luogu_lid: "pk7sowa1"
 luogu_category: 1
 original: "https://www.luogu.com.cn/article/pk7sowa1"

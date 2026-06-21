@@ -2,7 +2,7 @@
 title: "【笔记】初赛常见知识点整理"
 date: 2021-09-05 17:41:30
 categories:
-  - "文章"
+  - "笔记"
 luogu_lid: "u18r4dup"
 luogu_category: 1
 original: "https://www.luogu.com.cn/article/u18r4dup"

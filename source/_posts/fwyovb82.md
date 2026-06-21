@@ -2,7 +2,7 @@
 title: "【总结】冷知识集合"
 date: 2023-01-30 23:41:41
 categories:
-  - "文章"
+  - "总结"
 luogu_lid: "fwyovb82"
 luogu_category: 1
 original: "https://www.luogu.com.cn/article/fwyovb82"

@@ -2,7 +2,7 @@
 title: "【题解】P5560 [Celeste-B]Golden Feather"
 date: 2021-10-09 17:12:57
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "nvrceos9"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/nvrceos9"

@@ -2,7 +2,7 @@
 title: "【游记】APIO 2021 打铁记"
 date: 2021-05-19 18:57:50
 categories:
-  - "文章"
+  - "游记"
 luogu_lid: "1htd0qnl"
 luogu_category: 5
 original: "https://www.luogu.com.cn/article/1htd0qnl"

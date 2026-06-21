@@ -2,7 +2,7 @@
 title: "【题解】P2354 [NOI2014] 随机数生成器"
 date: 2022-05-09 20:50:59
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "nrv04uvu"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/nrv04uvu"

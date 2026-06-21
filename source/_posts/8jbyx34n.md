@@ -2,7 +2,7 @@
 title: "【闲话】2025 年 4 月 11 日 闲话"
 date: 2025-04-12 00:36:32
 categories:
-  - "文章"
+  - "闲话"
 luogu_lid: "8jbyx34n"
 luogu_category: 8
 original: "https://www.luogu.com.cn/article/8jbyx34n"

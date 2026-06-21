@@ -2,7 +2,7 @@
 title: "【笔记】Romberg 求积法"
 date: 2025-12-20 16:10:52
 categories:
-  - "文章"
+  - "笔记"
 luogu_lid: "rzpe36md"
 luogu_category: 4
 original: "https://www.luogu.com.cn/article/rzpe36md"

@@ -2,7 +2,7 @@
 title: "【笔记】整数裂项公式与平方和公式"
 date: 2021-02-26 18:15:28
 categories:
-  - "文章"
+  - "笔记"
 luogu_lid: "tjbv5bcq"
 luogu_category: 1
 original: "https://www.luogu.com.cn/article/tjbv5bcq"

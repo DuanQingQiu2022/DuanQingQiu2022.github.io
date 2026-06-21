@@ -2,7 +2,7 @@
 title: "【题解】P4643 [国家集训队]阿狸和桃子的游戏"
 date: 2021-03-14 19:53:20
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "iwhpcamv"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/iwhpcamv"

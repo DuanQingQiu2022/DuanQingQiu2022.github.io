@@ -2,7 +2,7 @@
 title: "【闲话】2022 年 7 月 21 日 闲话"
 date: 2022-07-21 21:21:19
 categories:
-  - "文章"
+  - "闲话"
 luogu_lid: "ye17gmel"
 luogu_category: 8
 original: "https://www.luogu.com.cn/article/ye17gmel"

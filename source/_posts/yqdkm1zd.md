@@ -2,7 +2,7 @@
 title: "【题解】P2503 [HAOI2006]均分数据"
 date: 2022-03-22 10:19:23
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "yqdkm1zd"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/yqdkm1zd"

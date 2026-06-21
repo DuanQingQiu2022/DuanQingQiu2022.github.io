@@ -2,7 +2,7 @@
 title: "【笔记】一些数据结构基础习题"
 date: 2025-11-13 21:53:36
 categories:
-  - "文章"
+  - "笔记"
 luogu_lid: "8cehfyzb"
 luogu_category: 1
 original: "https://www.luogu.com.cn/article/8cehfyzb"

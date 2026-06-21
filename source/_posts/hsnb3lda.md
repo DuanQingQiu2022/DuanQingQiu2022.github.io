@@ -2,7 +2,7 @@
 title: "【游记】UOJ NOI Round 6 游记"
 date: 2022-08-05 18:16:38
 categories:
-  - "文章"
+  - "游记"
 luogu_lid: "hsnb3lda"
 luogu_category: 5
 original: "https://www.luogu.com.cn/article/hsnb3lda"

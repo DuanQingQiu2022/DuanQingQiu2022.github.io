@@ -2,7 +2,7 @@
 title: "【总结】省选模拟赛#7（后期）"
 date: 2022-03-05 23:52:16
 categories:
-  - "文章"
+  - "总结"
 luogu_lid: "1hlg4qer"
 luogu_category: 1
 original: "https://www.luogu.com.cn/article/1hlg4qer"

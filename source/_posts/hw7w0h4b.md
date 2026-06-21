@@ -2,7 +2,7 @@
 title: "【题解】CF2A Winner"
 date: 2021-08-01 14:00:33
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "hw7w0h4b"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/hw7w0h4b"

@@ -2,7 +2,7 @@
 title: "【笔记】单调栈学习笔记"
 date: 2021-09-08 13:59:37
 categories:
-  - "文章"
+  - "笔记"
 luogu_lid: "zy2epv1s"
 luogu_category: 1
 original: "https://www.luogu.com.cn/article/zy2epv1s"

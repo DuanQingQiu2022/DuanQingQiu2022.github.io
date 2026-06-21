@@ -2,7 +2,7 @@
 title: "【题解】P2900 [USACO08MAR]Land Acquisition G"
 date: 2022-02-25 14:40:35
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "5iqrz7yh"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/5iqrz7yh"

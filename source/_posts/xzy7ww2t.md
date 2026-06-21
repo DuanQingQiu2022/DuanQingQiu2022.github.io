@@ -2,7 +2,7 @@
 title: "【乱搞】P1835 素数密度"
 date: 2022-02-16 09:06:14
 categories:
-  - "文章"
+  - "乱搞"
 luogu_lid: "xzy7ww2t"
 luogu_category: 1
 original: "https://www.luogu.com.cn/article/xzy7ww2t"

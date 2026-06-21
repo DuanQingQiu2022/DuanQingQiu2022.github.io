@@ -2,7 +2,7 @@
 title: "【题解】P1368 【模板】最小表示法"
 date: 2022-03-09 17:56:46
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "wbmefa7y"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/wbmefa7y"

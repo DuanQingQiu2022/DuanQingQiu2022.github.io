@@ -2,7 +2,7 @@
 title: "【笔记】Gauss 求积法"
 date: 2025-12-24 13:12:13
 categories:
-  - "文章"
+  - "笔记"
 luogu_lid: "wv3er2j2"
 luogu_category: 4
 original: "https://www.luogu.com.cn/article/wv3er2j2"

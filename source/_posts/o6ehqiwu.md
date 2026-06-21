@@ -2,7 +2,7 @@
 title: "【笔记】多种方法求解常微分方程初值问题"
 date: 2026-01-02 03:03:40
 categories:
-  - "文章"
+  - "笔记"
 luogu_lid: "o6ehqiwu"
 luogu_category: 4
 original: "https://www.luogu.com.cn/article/o6ehqiwu"

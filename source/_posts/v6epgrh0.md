@@ -2,7 +2,7 @@
 title: "【题解】P3939 数颜色"
 date: 2022-01-22 23:26:26
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "v6epgrh0"
 luogu_category: 1
 original: "https://www.luogu.com.cn/article/v6epgrh0"

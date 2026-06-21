@@ -2,7 +2,7 @@
 title: "【题解】P2343 宝石管理系统"
 date: 2022-04-05 20:04:25
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "7alx9g1y"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/7alx9g1y"

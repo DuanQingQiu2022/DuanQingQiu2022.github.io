@@ -2,7 +2,7 @@
 title: "【题解】P2613 【模板】有理数取余"
 date: 2021-09-08 12:34:41
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "y74h4njr"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/y74h4njr"

@@ -2,7 +2,7 @@
 title: "【总结】省选模拟赛（后期）#5"
 date: 2022-02-26 23:51:07
 categories:
-  - "文章"
+  - "总结"
 luogu_lid: "hhh6cayu"
 luogu_category: 1
 original: "https://www.luogu.com.cn/article/hhh6cayu"

@@ -2,7 +2,7 @@
 title: "【笔记】多种方法求解方程及方程组"
 date: 2025-11-12 13:01:08
 categories:
-  - "文章"
+  - "笔记"
 luogu_lid: "9tx5py8g"
 luogu_category: 4
 original: "https://www.luogu.com.cn/article/9tx5py8g"

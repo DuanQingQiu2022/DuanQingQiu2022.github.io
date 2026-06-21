@@ -2,7 +2,7 @@
 title: "【题解】P1433 吃奶酪"
 date: 2022-05-12 21:36:40
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "vq018jct"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/vq018jct"

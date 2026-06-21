@@ -2,7 +2,7 @@
 title: "【题解】CF1707（Div 1）"
 date: 2022-10-12 23:54:58
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "9ktwai9m"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/9ktwai9m"

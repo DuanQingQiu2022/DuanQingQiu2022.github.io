@@ -2,7 +2,7 @@
 title: "【题解】P1801 黑匣子"
 date: 2022-04-05 18:09:14
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "7rr3gupx"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/7rr3gupx"

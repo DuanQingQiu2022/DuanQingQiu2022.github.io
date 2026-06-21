@@ -2,7 +2,7 @@
 title: "【游记】2025 美赛游记"
 date: 2025-02-03 01:15:36
 categories:
-  - "文章"
+  - "游记"
 luogu_lid: "s1ua38uf"
 luogu_category: 5
 original: "https://www.luogu.com.cn/article/s1ua38uf"

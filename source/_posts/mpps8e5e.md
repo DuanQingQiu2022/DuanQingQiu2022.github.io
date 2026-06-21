@@ -2,7 +2,7 @@
 title: "【题解】CF757B Bash's Big Day"
 date: 2021-10-28 13:52:23
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "mpps8e5e"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/mpps8e5e"

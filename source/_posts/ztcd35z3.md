@@ -2,7 +2,7 @@
 title: "【题解】CF865D Buy Low Sell High"
 date: 2022-10-27 12:01:47
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "ztcd35z3"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/ztcd35z3"

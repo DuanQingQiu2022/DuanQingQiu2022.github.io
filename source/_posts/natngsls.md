@@ -2,7 +2,7 @@
 title: "【总结】24OI集训 20210817"
 date: 2021-08-17 23:03:51
 categories:
-  - "文章"
+  - "总结"
 luogu_lid: "natngsls"
 luogu_category: 1
 original: "https://www.luogu.com.cn/article/natngsls"

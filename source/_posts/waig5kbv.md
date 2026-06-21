@@ -2,7 +2,7 @@
 title: "【题解】P8818 [CSP-S 2022] 策略游戏"
 date: 2022-11-05 23:49:14
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "waig5kbv"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/waig5kbv"

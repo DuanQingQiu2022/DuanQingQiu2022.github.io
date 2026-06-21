@@ -2,7 +2,7 @@
 title: "【题解】CF1638B Odd Swap Sort"
 date: 2022-02-22 21:16:05
 categories:
-  - "文章"
+  - "题解"
 luogu_lid: "h5tedhrq"
 luogu_category: 2
 original: "https://www.luogu.com.cn/article/h5tedhrq"
