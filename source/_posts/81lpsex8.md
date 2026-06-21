@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P10614)
 
+<!-- more -->
+
 设 $n=|s|$。
 
 写在脸上的 dp of dp，显然内层 dp 是一个 LCS。

@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/CF1551D1)
 
+<!-- more -->
+
 题意：给定一个 $n$ 行 $m$ 列的方格，用 $k$ 块水平 $1×2$ 的多米诺骨牌覆盖后，余下部分能否被竖直的 $1×2$ 的多米诺骨牌覆盖。
 
 显然是一道结论题。

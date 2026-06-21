@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P1102)
 
+<!-- more -->
+
 这个水题总感觉是在致敬 Leetcode 上的第一题 2Sum。
 
 前两天在知乎上看到一个神必回答，说 75% 的程序员认为 2Sum 这题最优复杂度是 $O(n^2)$，于是十分震惊。

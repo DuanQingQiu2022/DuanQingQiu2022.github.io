@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P9693)
 
+<!-- more -->
+
 好烦人啊。
 
 注意到每个人的贡献与他的邻居是谁无关，所以我们只关心没有邻居的人的数量。

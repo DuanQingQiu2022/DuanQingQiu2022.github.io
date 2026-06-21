@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P1525)
 
+<!-- more -->
+
 这似乎依然是一道扩展域并查集板子题……
 
 由于只需要使第一个事件的冲突值最小，显然可以贪心，于是将 $m$ 个事件按冲突值从大到小排序。

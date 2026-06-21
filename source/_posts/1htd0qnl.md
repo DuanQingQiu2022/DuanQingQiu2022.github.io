@@ -11,6 +11,8 @@ disableNunjucks: true
 
 ## Day 0
 
+<!-- more -->
+
 一模颓废whk中……
 
 ## Day 1 

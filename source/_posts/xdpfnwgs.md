@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P2491)
 
+<!-- more -->
+
 经典题的 $O(n)$ 做法。
 
 题意是在树的直径上选一条长度不超过 $s$ 的路径 $(i,j)$，使得路径外的其他点到这条路径的最大距离最小，求这个最小值。

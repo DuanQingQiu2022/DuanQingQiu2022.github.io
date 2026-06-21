@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P3199)
 
+<!-- more -->
+
 分数规划板子。
 
 考虑二分答案的一个合法值为 $mid$，那么有 $\dfrac{1}{k}\sum\limits_{i=1}^kw_{c_i,c_{i+1}} \le mid$，即 $\sum\limits_{i=1}^k(w_{c_i,c_{i+1}}-mid) \le 0$。

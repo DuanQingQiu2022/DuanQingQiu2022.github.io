@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P2127)
 
+<!-- more -->
+
 注意到序列中的数两两不同，因此这个序列可以被分成多个置换环，对每个置换环单独处理即可。
 
 设全局最小值为 $m$。

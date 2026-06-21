@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P5020)
 
+<!-- more -->
+
 首先有一个显然的结论：$m≤n$。
 
 证明很简单，因为最坏的情况下也可以把原来的货币系统抄一遍。

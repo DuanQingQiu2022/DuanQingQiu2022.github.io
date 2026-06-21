@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P1119)
 
+<!-- more -->
+
 Floyd 的经典运用。
 
 Floyd 算法原始的时候，是需要开一个三维数组 $f[k][x][y]$ 代表只允许经过点 $1 \sim k$，从 $x$ 到 $y$ 的最短路长度，但是你会发现这个东西和直接开二维数组 $f[x][y]$ 没有区别（[这个结论的证明](https://oi-wiki.org/graph/shortest-path/#_4)），于是就把这个东西优化掉了。

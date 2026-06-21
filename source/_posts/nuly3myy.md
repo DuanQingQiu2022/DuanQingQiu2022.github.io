@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P2328)
 
+<!-- more -->
+
 这个构造太一眼了。差不多就是类似这样一直排下去。
 ```cpp
 000 001 002 003

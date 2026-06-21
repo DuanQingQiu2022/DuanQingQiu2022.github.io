@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P2647)
 
+<!-- more -->
+
 好久没写博客了，写个水题。
 
 一眼正难则反，考虑倒着选，这样就转化成选 $i$ 会使前面选的所有数均减去 $r_i$，然后这样就满足了动态规划性质。

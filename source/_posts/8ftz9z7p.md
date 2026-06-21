@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P3254)
 
+<!-- more -->
+
 这题的关键性质就是每个单位在每个桌子上最多坐一个人。
 
 所以相当于把第 $i$ 个单位匹配 $r_i$ 张桌子，求这样的匹配方案。

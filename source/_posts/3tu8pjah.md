@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P6776)
 
+<!-- more -->
+
 一句话题意：定义一个操作为将二叉树的一个叶子替换为任意一棵二叉树，
 给定二叉树集合 $S$，问是否存在无限棵树不能由 $S$ 中的树通过若干次操作得到。
 

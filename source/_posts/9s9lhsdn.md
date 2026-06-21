@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/CF1467B)
 
+<!-- more -->
+
 这 sb 题我调了一天……
 
 注意到我们并不关心一个点究竟是山峰还是山谷，于是直接处理一遍打标记。

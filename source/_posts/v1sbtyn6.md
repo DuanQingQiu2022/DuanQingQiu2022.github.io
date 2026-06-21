@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P7471)
 
+<!-- more -->
+
 NOI Online 2021 入门组 T1。
 
 首先有一个显而易见的结论：答案最多不会超过三刀。

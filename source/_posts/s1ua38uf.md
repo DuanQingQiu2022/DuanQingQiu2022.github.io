@@ -11,6 +11,8 @@ disableNunjucks: true
 
 既然打了还是记录一下吧。
 
+<!-- more -->
+
 ## Day -n
 
 得知今年美赛压线除夕，本来不打算去的。

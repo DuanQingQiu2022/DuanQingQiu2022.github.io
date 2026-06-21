@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P10701)
 
+<!-- more -->
+
 首先观察数据范围，然后答案显然是具有单调性的，不难想到二分答案。
 
 考虑对于答案 $j$ 如何进行 check。

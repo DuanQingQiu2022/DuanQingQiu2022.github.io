@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/SP1026)
 
+<!-- more -->
+
 期望 dp 的练手好题。
 
 设 $dp[i]$ 为已经选了 $i$ 种点数，要选到 $n$ 种点数还需要扔多少次的期望值。

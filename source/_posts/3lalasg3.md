@@ -11,6 +11,8 @@ disableNunjucks: true
 
 ## Day -n
 
+<!-- more -->
+
 有人找我组队，那就打吧。
 
 发现组出了本校一队，那得好好打了。

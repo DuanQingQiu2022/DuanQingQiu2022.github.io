@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P1550)
 
+<!-- more -->
+
 题面要求说每块田都得与地下水相连。
 
 不妨设地下水为 $0$ 号节点，然后每个点 $i$ 向 $0$ 号节点连一条边权为 $w_i$ 的边。

@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/CF2A)
 
+<!-- more -->
+
 一眼STL大法好。直接用 $map$ 映射存储每个选手的得分即可。
 
 然后找出最大得分，记录哪些人的得分最高，再重新模拟一遍找出最先达到最高得分者即可。

@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/CF1699C)
 
+<!-- more -->
+
 2C 卡半天，小丑竟是我自己。
 
 首先这题有明显的暴力 DS 做法，可以 AC。

@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P2440)
 
+<!-- more -->
+
 傻逼题。
 
 $1 \le n \le 10^5$，考虑二分。

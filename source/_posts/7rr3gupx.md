@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P1801)
 
+<!-- more -->
+
 这当然是平衡树查找第 $k$ 小的板子……
 
 但是注意到查找的第 $k$ 小中，$k$ 是递增的。

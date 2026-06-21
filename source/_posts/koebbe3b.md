@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P5661)
 
+<!-- more -->
+
 CSP-J 2019 T2。
 
 直接按照题意模拟即可，用两个普通队列分别存储每张优惠票的价格和它过期的时间。

@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P4430)
 
+<!-- more -->
+
 奇怪的结论题……
 
 一句话题意：经过 $n-1$ 次连边之后得到一棵 $n$ 个点的无根树，求不同的连边方案数。

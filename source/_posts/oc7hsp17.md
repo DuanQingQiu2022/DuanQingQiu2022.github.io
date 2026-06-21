@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P7045)
 
+<!-- more -->
+
 构造题和交互题，共同特点是我都不会。
 
 前置知识：[摩尔投票法](https://www.luogu.com.cn/blog/DreamNOI2022/post-ti-xie-p2397-yyy-loves-maths-vi-mode)

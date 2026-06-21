@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P3939)
 
+<!-- more -->
+
 这个真的是经典诈骗题了。
 
 我每次第一眼看到这题就想带修莫队，明显是 DS 学魔怔了。而且带修莫队啥也过不了。
@@ -79,6 +81,5 @@ int main()
     back 0;
 }
 ```
-
 
 

@@ -11,6 +11,8 @@ disableNunjucks: true
 
 ### [CF1728A](https://www.luogu.com.cn/problem/CF1728A)
 
+<!-- more -->
+
 显然存在一种取法使得最后剩下的颜色是开始时数量最多的那个颜色。
 
 ### [CF1728B](https://www.luogu.com.cn/problem/CF1728B)

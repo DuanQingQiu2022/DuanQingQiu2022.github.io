@@ -11,6 +11,8 @@ disableNunjucks: true
 
 虽然说是自闭记，但其实挺欢乐的。
 
+<!-- more -->
+
 在省选计划里找队伍，跟 [_HL_](https://www.luogu.com.cn/user/223560) 和 [lym12321](https://www.luogu.com.cn/user/236847) 组了队。
 
 队名是：啊对对队，好像有好几个重名的，离谱。不过反正也不是我取名。

@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P1144)
 
+<!-- more -->
+
 没有边权的无向图，模数 $p=100003$。
 
 首先去掉自环，bfs 一遍可以求出每个点的最短路 $dep_i$。

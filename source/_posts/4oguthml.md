@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P3628)
 
+<!-- more -->
+
 十年前的 APIO 还会考斜优板子，十年后的 APIO 我都不知道出了些什么神仙题……当然这个可能在当时也是神仙题……OI 界进步太可怕了……
 
 感慨一下。不难看出这题是个斜优板子。

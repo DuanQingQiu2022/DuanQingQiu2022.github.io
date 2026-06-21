@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/CF690A3)
 
+<!-- more -->
+
 神奇的构造题。
 
 考虑 $n$ 个人中至少要有一个人猜中，那么必然是有 $n$ 种可能性，每个人猜一种。于是自然想到要猜测某个数对 $n$ 取模的结果。

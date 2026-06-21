@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P4168)
 
+<!-- more -->
+
 我已经写过这个分块好多遍了……然后还是调了很久很久，感觉自己行将就木。
 
 考虑分块，设块数为 $t$。

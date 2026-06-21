@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P2261)
 
+<!-- more -->
+
 首先拆式子可以得到原式等价于 $nk-\sum\limits_{i=1}^n \left\lfloor\dfrac{k}{i}\right\rfloor\times i$
 
 猜测 $k \bmod i$ 的取值不会太多，可以分段做。

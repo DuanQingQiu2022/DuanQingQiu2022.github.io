@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P8255)
 
+<!-- more -->
+
 萌萌题不配蓝吧……
 
 题意：给定正整数 $x,z$，求满足 $z=x \times y \times \gcd(x,y)$ 的最小正整数 $y$。

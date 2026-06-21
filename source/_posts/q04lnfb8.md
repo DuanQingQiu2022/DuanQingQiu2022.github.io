@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/CF1553A)
 
+<!-- more -->
+
 一句话题意：定义 $S(x)$ 为 $x$ 的各个数位之和，求 $n$ 中有多少个数 $x$ 满足 $S(x)<S(x+1)$。
 
 注意到除了个位数为 $0$ 的情况，其他时候 $S(x)$ 单调递增。因此每十个数中只会有一个数对答案有贡献。于是直接计算所有满足 $x\equiv9\pmod{10}$ 的 $x$ 个数即可。

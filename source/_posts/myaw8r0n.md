@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P4281)
 
+<!-- more -->
+
 首先集合点肯定是某两个点的 LCA，证明显然。
 
 因为从 LCA 向外移动，必然靠近一个点而远离两个点，这样距离肯定不会减少，所以得证。

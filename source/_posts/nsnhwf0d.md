@@ -11,6 +11,8 @@ disableNunjucks: true
 
 ## [CF1114A](https://www.luogu.com.cn/problem/CF1114A)
 
+<!-- more -->
+
 依次满足三个人的要求即可。
 
 ## [CF1114B](https://www.luogu.com.cn/problem/CF1114B)

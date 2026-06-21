@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P1880)
 
+<!-- more -->
+
 区间 $dp$ 典中典。
 
 做法很一眼，记录 $dp[i][j]$ 为从 $i$ 合并到 $j$ 的最大分数，然后在 $[i,j)$ 中枚举断点 $k$ 即可。

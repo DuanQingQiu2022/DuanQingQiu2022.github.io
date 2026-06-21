@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P1194)
 
+<!-- more -->
+
 这个题比较脑筋急转弯。
 
 显然 $i,j$ 间边权为 $k_{i,j}$，问题在于如何处理点权。

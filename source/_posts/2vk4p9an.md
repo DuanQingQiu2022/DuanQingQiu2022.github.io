@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P1297)
 
+<!-- more -->
+
 注意到每道选择题的选项个数不一样，所以可以根据每道题的选项个数进行分类讨论。
 
 对于第 $i$ 道题，如果 $a_i=a_{i+1}$，那么期望显然是 $\dfrac{1}{a_i}$。

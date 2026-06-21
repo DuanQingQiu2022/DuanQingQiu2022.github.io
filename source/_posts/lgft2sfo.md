@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P8207)
 
+<!-- more -->
+
 嗯……我赛时就过了这一个题，纪念一下。
 
 题意就是给你 $r-l+1$ 个点，点从 $l \sim r$ 编号，边 $(u,v)$ 的边权为 $\operatorname{lcm}(u,v)$，求这些点构成的无向完全图的最小生成树。

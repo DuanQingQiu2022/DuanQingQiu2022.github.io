@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/CF757B)
 
+<!-- more -->
+
 CF 的 hack 数据千奇百怪……
 
 显然直接枚举是 $O(n^2)$ 的，考虑优化。

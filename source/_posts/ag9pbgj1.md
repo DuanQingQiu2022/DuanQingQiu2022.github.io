@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P2508)
 
+<!-- more -->
+
 题目要求 $x^2+y^2=r^2$，即 $x^2=(r+y)(r-y)$。
 
 令 $gcd(r+y,r-y)=u$，则显然有 $r+y=a^2u$，$r-y=b^2u$

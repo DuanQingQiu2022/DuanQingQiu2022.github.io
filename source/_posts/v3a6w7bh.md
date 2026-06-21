@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/CF1592F1)
 
+<!-- more -->
+
 超级妙妙题！
 
 题意：

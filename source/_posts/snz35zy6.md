@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/CF1659C)
 
+<!-- more -->
+
 *1500 都不会了，这水平。
 
 首先考虑一种简单情况就是 $a \le b$，显然这时候迁移肯定比不迁移好，所以每次都迁，最后迁到 $x_{n-1}$，所以答案就是 $ax_{n-1}+bx_n$。

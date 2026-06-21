@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/CF1157C2)
 
+<!-- more -->
+
 记录一个弱智错误。
 
 感觉这题面有点 CSP-S 2021 T3 那味了（

@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/AT320)
 
+<!-- more -->
+
 考虑每次翻两张正面朝上的卡片，翻一张背面朝上的卡片，一轮操作之后相当于将一张正面朝上的卡片翻到背面。
 
 所以一共会进行 $n-1$ 轮操作。

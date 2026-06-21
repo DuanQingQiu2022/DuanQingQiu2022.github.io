@@ -12,6 +12,8 @@ disableNunjucks: true
 #### 整数裂项公式：
 $\sum\limits_{i=1}^ni(i+1)= \dfrac{n(n+1)(n+2)}{3}$
 
+<!-- more -->
+
 #### 证明：
 
 $∵i(i+1)=\dfrac{i(i+1)(i+2)-i(i+1)(i-1)}{3}$
@@ -23,8 +25,6 @@ $=\dfrac{i(i+1)(i+2)-i(i+1)(i-1)}{3}+\dfrac{(i+1)(i+2)(i+3)-i(i+1)(i+2))}{3}$
 $=\dfrac{(i+1)(i+2)(i+3)-i(i+1)(i-1)}{3}$
 
 $∴\sum\limits_{i=1}^ni(i+1)=\dfrac{n(n+1)(n+2)}{3}-\dfrac{1×2×0}{3}=\dfrac{n(n+1)(n+2)}{3}$
-
-
 
 #### 平方和公式：
 

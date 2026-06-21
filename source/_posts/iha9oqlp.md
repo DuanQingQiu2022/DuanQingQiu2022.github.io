@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P16807)
 
+<!-- more -->
+
 组合意义天地灭，代数推导保平安。
 
 首先如果没有限制那答案肯定是 $\dbinom{n+m}{m}$。正难则反，考虑统计不合法的方案数。
@@ -23,17 +25,11 @@ disableNunjucks: true
 
 考虑 Rothe-Hagen 恒等式：
 
-
-
 $$
 \sum\limits_{k=0}^n \dfrac{x}{x+kz} \dbinom{x+kz}{k} \dfrac{y}{y+(n-k)z} \dbinom{y+(n-k)z}{n-k} = \dfrac{x+y}{x+y+nz} \dbinom{x+y+nz}{n}
 $$
 
-
-
 这个看起来分式有点多，考虑它的另一个变体：
-
-
 
 $$
 \sum\limits_{k=0}^n \dfrac{x}{x+kz} \dbinom{x+kz}{k} \dbinom{y-kz}{n-k} = \dbinom{x+y}{n}

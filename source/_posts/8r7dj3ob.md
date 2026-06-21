@@ -15,6 +15,8 @@ disableNunjucks: true
    
 求满足条件的方案数，模 $998244353$。
 
+<!-- more -->
+
 首先对于 $a_i<a_{i+1}$，有 $\dfrac{1}{\text{lcm}(a_i,a_{i+1})}=\dfrac{\gcd(a_i,a_{i+1})}{a_ia_{i+1}}\le\dfrac{1}{a_i}-\dfrac{1}{a_{i+1}}$。
 
 于是 $S \le \dfrac{1}{a_1}-\dfrac{1}{a_n}+\dfrac{1}{\text{lcm}(a_n, a_1)} \le \dfrac{1}{a_1} \le 1$。
@@ -138,6 +140,5 @@ int main()
 	}
 	back 0;
 }
-
 
 ```

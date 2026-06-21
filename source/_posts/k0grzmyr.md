@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P7078)
 
+<!-- more -->
+
 注意到蛇的强度是单调递增的。
 
 一条蛇当前选择吃，当且仅当它在之后不会被吃。

@@ -11,6 +11,8 @@ disableNunjucks: true
 
 本文中 Day 0 为 2022.8.20，Day -7 为 2022.8.13.
 
+<!-- more -->
+
 娱乐选手来 NOI 了。
 
 ## Day -7

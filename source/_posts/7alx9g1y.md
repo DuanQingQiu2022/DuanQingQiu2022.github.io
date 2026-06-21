@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P2343)
 
+<!-- more -->
+
 每日一个 STL 小技巧。
 
 插入和询问第 $k$ 大，但我就不写平衡树。

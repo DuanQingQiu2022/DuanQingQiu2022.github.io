@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/CF1144F)
 
+<!-- more -->
+
 首先图是无向连通图。
 
 路径长度 $\le 2$，等价于一个点不能既有入边又有出边，即一个点要么入度为 $0$，要么出度为 $0$。

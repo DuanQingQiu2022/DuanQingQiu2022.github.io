@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P12143)
 
+<!-- more -->
+
 蓝桥 F 题。
 
 首先好串可以分为两种，一种是连续非递减串，一种是有断点但是可以分割成两个连续非递减子串。
@@ -24,7 +26,6 @@ disableNunjucks: true
 于是双指针扫一遍整个串，记录当前好串类型和断点位置即可。
 
 时间复杂度 $O(n)$。
-
 
 ```cpp
 //简单题需要代码……

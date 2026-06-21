@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/solution/CF1436A)
 
+<!-- more -->
+
 题面求 $\sum_{i=1}^n\sum_{j=i}^n\dfrac{a_j}{j}$。
 
 直接将式子展开，

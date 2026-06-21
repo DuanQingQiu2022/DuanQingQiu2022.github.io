@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/CF431D)
 
+<!-- more -->
+
 看到数据范围肯定会想到二分，再加上 $[n+1,2n]$ 的奇怪限制，可以直感答案是有单调性的。
 
 具体地，记录 $f(n)$ 表示 $[n+1,2n]$ 中二进制表示有 $k$ 个 $1$ 的数的数量，则有 $f(n) \le f(n+1)$。

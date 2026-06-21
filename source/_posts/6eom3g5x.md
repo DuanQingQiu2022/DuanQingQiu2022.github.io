@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P3398)
 
+<!-- more -->
+
 题意：给两条树上路径，问这两条路径是否相交。
 
 不妨设为路径 $(x_1,y_1)$ 和 $(x_2,y_2)$。

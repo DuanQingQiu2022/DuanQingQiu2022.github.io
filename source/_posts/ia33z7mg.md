@@ -11,6 +11,8 @@ disableNunjucks: true
 
 上午 dp 模拟，没挂分，就是不会！暴力都不会！我已经不适合学习了！
 
+<!-- more -->
+
 stO $KH$ $Rank$ $1$ $335pts$！
 
 $30+10+0+0=40$，机房内并列 $Rank$ $11$。

@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P1396)
 
+<!-- more -->
+
 傻逼题。
 
 把边按权值排序，然后连边最小生成树，当 $s$ 和 $t$ 联通时的那条边的权值即为答案。

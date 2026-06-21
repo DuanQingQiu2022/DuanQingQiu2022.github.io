@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/CF1305E)
 
+<!-- more -->
+
 本人构造幼儿园水平，看到隔壁小朋友在做构造题，来复健一下构造。
 
 首先比较直观的想法就是 $1,2,3,4$ 这样一直填下去。然后显然每填一个数增加的三元组个数是 $0,0,1,1,2,2...$，第 $i$ 个数贡献 $\left\lfloor\dfrac{i-1}{2}\right\rfloor$。

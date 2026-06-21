@@ -13,8 +13,9 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P12142)
 
-蓝桥 E 题。赛时多测没清空，搞笑了。
+<!-- more -->
 
+蓝桥 E 题。赛时多测没清空，搞笑了。
 
 考虑对一个 $n \times m$ 的矩阵，首先如果每个数都不同的话总方案数肯定是 $(nm)!$ 的。
 
@@ -24,12 +25,10 @@ disableNunjucks: true
 
 注意阶乘要处理到 $nm+2$ 而不是 $nm$，否则会被如下小数据卡掉。
 
-
 ```cpp
 //Hack
 3
 1 1 1
 ```
-
 
 时间复杂度 $O(nm)$。

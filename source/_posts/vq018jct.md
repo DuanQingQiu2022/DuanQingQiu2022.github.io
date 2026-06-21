@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P1433)
 
+<!-- more -->
+
 状压板子。
 
 首先根据三角不等式，重复走一个点肯定是不优的，所以不妨设每个点最多被经过一次（三点共线情况不算在内，不影响结果）

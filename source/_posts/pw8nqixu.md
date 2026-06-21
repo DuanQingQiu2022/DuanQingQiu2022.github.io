@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/CF1433B)
 
+<!-- more -->
+
 直观的思路。
 
 由于每次只能移动 $1$ 位，那么要把所有的 $1$ 连在一起，就必须移动最左边的 $1$ 和最右边的 $1$ 中间的 $0$ 那么多次。

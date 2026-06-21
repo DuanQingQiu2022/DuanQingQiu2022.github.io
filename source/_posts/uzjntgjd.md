@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/CF93E)
 
+<!-- more -->
+
 如果直接大力容斥枚举子集，由于 $a_i$ 两两互质那么 $\operatorname {lcm}$ 即为乘积，因此增长速度极快，很快就大于 $n$ 了，所以跑得意外地快，不过依然只能过 $n=10^{11}$，不可能过 $10^{13}$。
 
 考虑一下正经做法，设 $dp_{i,j}$ 表示 $[1,i]$ 中会被前 $j$ 个 $a$ 中的数整除的个数。

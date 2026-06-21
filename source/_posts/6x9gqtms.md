@@ -11,6 +11,8 @@ disableNunjucks: true
 
 ## [CF797A](https://www.luogu.com.cn/problem/CF797A)
 
+<!-- more -->
+
 直接对 $n$ 进行质因数分解，如果由 $\ge k$ 个质数相乘就有解，反之无解。
 
 ## [CF797B](https://www.luogu.com.cn/problem/CF797B)

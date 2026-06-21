@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P5664)
 
+<!-- more -->
+
 一道比较有价值的数数题。
 
 一句话题意：给一个 $n \times m$ 的矩阵，每行至多选一个，每列至多选一半（向下取整），不能不选，求方案数。

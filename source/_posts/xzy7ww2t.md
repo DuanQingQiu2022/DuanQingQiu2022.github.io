@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P1835)
 
+<!-- more -->
+
 暴力过了这个题，随便写一写。
 
 发现这个题上下界差值特别小，瓶颈在于如何筛素数。

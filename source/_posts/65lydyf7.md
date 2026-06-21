@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P8365)
 
+<!-- more -->
+
 这题样例造得什么几把，写啥都能过所有样例。
 
 首先随便贪心都能 75pts/85pts/90pts，不多说了。

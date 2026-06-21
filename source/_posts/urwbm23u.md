@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P4377)
 
+<!-- more -->
+
 分数规划板子。
 
 题意：给定 $n$ 个物品，求一组 $b_i \in \left\{0,1\right\}$，使得 $\dfrac{\sum b_it_i}{\sum b_iw_i}$ 最大，要求 $\sum b_iw_i \ge W$。

@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P8866)
 
+<!-- more -->
+
 我宣布这是 NOIP 历史上最难的 T2。
 
 首先观察到 $k$ 只有两种取值，考虑分类讨论。

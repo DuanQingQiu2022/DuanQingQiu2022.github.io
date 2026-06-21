@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P5322)
 
+<!-- more -->
+
 由于对手很多而派兵方案不变，所以贪心显然是最不可取的做法。
 
 那么考虑 dp，显然可以设 $dp[i][j]$ 为前 $i$ 座城堡派出 $j$ 名士兵的最大得分。

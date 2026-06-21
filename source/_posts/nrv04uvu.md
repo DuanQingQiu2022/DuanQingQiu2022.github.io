@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P2354)
 
+<!-- more -->
+
 题意：给你一个 $n \times m$ 矩阵，元素为 $1 \sim n \times m$ 的一个排列，求从矩阵左上角只能向右或向下走到右下角经过路径元素字典序最小的序列。
 
 考虑直接贪心，从小到大枚举每个数是否能被选中。

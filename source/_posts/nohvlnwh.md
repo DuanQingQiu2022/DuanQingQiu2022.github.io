@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/CF1433C)
 
+<!-- more -->
+
 显然体积最大的鱼最有优势。如果只有一条体积最大的鱼，那么答案就是它。
 
 但是可能有很多条体积最大的鱼。那么体积最大，且能够吃掉别的鱼的鱼就是答案。

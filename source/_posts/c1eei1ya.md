@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/CF468B)
 
+<!-- more -->
+
 脑筋急转弯。
 
 显然矛盾点只出现在 $a-x$ 和 $b-x$ 同时出现的情况下。

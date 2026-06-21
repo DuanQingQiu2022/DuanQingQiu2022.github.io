@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P1043)
 
+<!-- more -->
+
 区间 dp 板子。
 
 首先断环为链，考虑设 $f_{i,j,k}$ 表示区间 $[i,j]$ 分成 $k$ 段满足条件的最大值，然后枚举区间断点 $l$ 进行转移即可，$f_{i,j,k}=\max\left\{f_{i,l,k-1}\times f_{l+1,j,1}\right\}$。

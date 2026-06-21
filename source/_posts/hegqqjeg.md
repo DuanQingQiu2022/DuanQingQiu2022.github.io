@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P7913)
 
+<!-- more -->
+
 我也不知道为啥我考场降智没过这题。
 
 明明考场上已经想到了关键结论，然而没想到怎么维护……最后喜提暴力分走人。

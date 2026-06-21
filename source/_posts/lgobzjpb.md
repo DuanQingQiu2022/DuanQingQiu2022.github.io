@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P3469)
 
+<!-- more -->
+
 题意：一个无向连通图，无重边，求对于每一个城镇，将其连接的所有边删掉（不删点）之后，有多少个有序点对 $(x,y)$ 满足 $x$ 和 $y$ 不连通。
 
 首先分类讨论。

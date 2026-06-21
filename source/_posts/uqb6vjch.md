@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P1595)
 
+<!-- more -->
+
 由于初赛模拟考了错位排列的期望于是来把这题做了。
 
 经典的错位排列问题，有递推式 $f[i]=(i-1)(f[i-1]+f[i-2])$，于是直接递推即可。

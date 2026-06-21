@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/B4394)
 
+<!-- more -->
+
 [P11036](https://www.luogu.com.cn/problem/P11036) 的加强版，挺有趣的。
 
 首先看 P11036 怎么做。第一感肯定是令 $b=1$，然后得到 $a=\operatorname{lcm}(c,d)-c-d$。然后考虑令 $c=2$ 且 $d$ 为奇数，就得到 $d=a+2$，这样 $a$ 为奇数时的通解就是 $(1,2,a+2)$。

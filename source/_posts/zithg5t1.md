@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/CF1612A)
 
+<!-- more -->
+
 诈骗！！！
 
 题意是给定 $A(0,0)$ 和 $B(x,y)$，$0 \le x,y \le 50$，求是否有坐标均为非负整数的点 $C$，满足 $d(A,C)=d(B,C)=\dfrac{d(A,B)}{2}$。（$d(x,y)$ 表示 $x,y$ 之间的**曼哈顿距离**）

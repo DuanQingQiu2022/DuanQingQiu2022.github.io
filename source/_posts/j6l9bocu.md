@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [P4249](https://www.luogu.com.cn/problem/P4249) [CF1264E](https://www.luogu.com.cn/problem/CF1264E)
 
+<!-- more -->
+
 鸽好久了，稍微写一下。
 
 求成环的三元组个数并没有优秀的做法，考虑求不成环的三元组个数。
@@ -30,7 +32,6 @@ disableNunjucks: true
 这个式子拆一下变成 $\dfrac{n(n-1)(n-2)}{6}-\sum\limits_{i=1}^n\dfrac{{d_i}^2}{2}+\sum\limits_{i=1}^n\dfrac{d_i}{2}$。
 
 又因为所有点的出度和等于图的边数，即 $\sum\limits_{i=1}^nd_i=\dfrac{n(n-1)}{2}$。
-
 
 代入可得原式值为 $\dfrac{n(n-1)(2n-1)}{12}-\dfrac{1}{2}\sum\limits_{i=1}^n{d_i}^2$。
 

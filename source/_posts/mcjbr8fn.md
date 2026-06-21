@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/CF1594D)
 
+<!-- more -->
+
 果然套路题评分都不高吗……
 
 一看题就知道显然是扩展域并查集。

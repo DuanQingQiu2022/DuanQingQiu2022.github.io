@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P8266)
 
+<!-- more -->
+
 听说是 2024 年 BNU 夏令营机试最后一题，感觉水平不太行啊，还搬原题，素质也有问题。
 
 首先这个只能搬偶数数量的前缀限制很怪，考虑怎么转化。

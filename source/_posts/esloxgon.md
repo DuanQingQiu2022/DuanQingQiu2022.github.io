@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/CF1642A)
 
+<!-- more -->
+
 题意：给一个三角形的三个顶点，问所有不能从 $x$ 轴上连一条直线到达的点组成的线段的长度。
 
 显然这样的线段必定平行于 $x$ 轴，且另外一个顶点必然在这条平行线下方。

@@ -11,15 +11,13 @@ disableNunjucks: true
 
 Romberg 求积法是另一个求积分近似值的方法。
 
+<!-- more -->
+
 考虑复化梯形公式（其中 $h=\dfrac{b-a}{n}$）
-
-
 
 $$
 \displaystyle{\int_a^bf(x)\mathrm{d}x} \approx h[\dfrac{f(a)}{2}+f(a+h)+f(a+2h)+\cdots+f(b-h)+\dfrac{f(b)}{2}]
 $$
-
-
 
 记上面式子右边为 $T(h)$，真实积分值为 $I$，则 $I=T(h)+c_1h^2+c_2h^4+\cdots$，其中 $c_1,\dots,c_n$ 为与 $h$ 无关、依赖于函数 $f(x)$ 导数的系数。
 
@@ -47,13 +45,9 @@ $\displaystyle{\int_{l}^{r}f(x) \text{d}x=\dfrac{r-l}{6}[f(l)+f(r)+4f(\frac{l+r}
 
 事实上，我们有如下递推式可以快速计算 $F_{k,0}$ 的值：
 
-
-
 $$
 F_{k,0}=\dfrac{1}{2}F_{k-1,0}+\dfrac{b-a}{2^k} \sum\limits_{i=1}^{2^{k-1}} f[a+(2i-1)\dfrac{b-a}{2^k}]
 $$
-
-
 
 根据上述思路，可以递推得到 $F_{k,m}=F_{k,m-1}+\dfrac{F_{k,m-1}-F_{k-1,m-1}}{4^m-1}$。
 

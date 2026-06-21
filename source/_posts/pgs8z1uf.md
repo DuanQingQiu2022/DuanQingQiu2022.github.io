@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P8367)
 
+<!-- more -->
+
 重新把这题式子整理一下写一篇，事实上好像也不是很难。
 
 首先考虑 $a_i$ 和 $a_{i+1}$ 之间有连边，那么一共有 $n-1$ 条边，单独考虑每条边的贡献。

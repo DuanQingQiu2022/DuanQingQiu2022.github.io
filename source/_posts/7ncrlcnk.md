@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/CF1184E1)
 
+<!-- more -->
+
 比较有趣的思维题。
 
 题目要求最小生成树**可能**包含第一条边 $(u,v)$ 时，第一条边的最大长度。

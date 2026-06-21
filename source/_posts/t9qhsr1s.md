@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P1489)
 
+<!-- more -->
+
 我喜欢这个题目背景。
 
 题本身没什么好说的，设 $f_{i,j}$ 表示前 $i$ 个人中一方血量为 $j$ 的方案是否可行，倒序枚举 $j$ 转移即可。

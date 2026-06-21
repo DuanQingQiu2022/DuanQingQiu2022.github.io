@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P1052)
 
+<!-- more -->
+
 暴力 dp 是线性的很好想。
 
 考虑优化，发现石子个数很少，也就是有很多空区间是没用的。

@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P10332)
 
+<!-- more -->
+
 感觉这个没有紫吧，比较套路。
 
 首先肯定 $1$ 是必选的，然后选完 $1$ 就是一堆散开的连通块，考虑选择这些块的顺序。

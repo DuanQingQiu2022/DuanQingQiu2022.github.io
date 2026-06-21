@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/CF1701C)
 
+<!-- more -->
+
 赛时没开 long long，寄！！！！！！！
 
 注意到每个任务最多只有一个人精通，所以显然大家都做自己精通的不会发生冲突，于是可以直接大力贪心。

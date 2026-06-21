@@ -11,6 +11,8 @@ disableNunjucks: true
 
 记录一下博主刷的 CF 套题，每个题都会写题解！
 
+<!-- more -->
+
 ### 1.[CF1728（Div 2）](https://www.luogu.com.cn/blog/DreamNOI2022/post-ti-xie-cf1728div-2-post)（进度：5/7）
 
 ### 2.[CF1707（Div 1）](https://www.luogu.com.cn/blog/DreamNOI2022/post-ti-xie-cf1707div-1-post)（进度：2/6）

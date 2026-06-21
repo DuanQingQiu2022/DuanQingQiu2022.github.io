@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P1156)
 
+<!-- more -->
+
 本来是一道 dp 练习题，但是突然不想推 dp 式子了，于是看到如此小的数据范围果断一发记忆化搜索。
 
 定义搜索状态 $dfs(ti,hi,cnt)$ 代表当前还能存活时间为 $ti$，当前高度为 $hi$，当前已经扔了 $cnt$ 个垃圾。
@@ -26,7 +28,6 @@ disableNunjucks: true
 向下搜索的时候就分别搜索 $dfs(ti+f_{cnt},hi,cnt+1)$ 和 $dfs(ti,hi+h_{cnt},cnt+1)$ 两种情况即可。
 
 注意 $1 \le f_i \le 30,1 \le t_i \le 1000,1 \le G \le 100$，所以最长存活时间最长可能达到 $4000$，因此记忆化数组的第一维必须要开到 $4000$ 以上。
-
 
 ```cpp
 #include<bits/stdc++.h>

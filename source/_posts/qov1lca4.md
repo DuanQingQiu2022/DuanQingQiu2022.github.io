@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/CF18E)
 
+<!-- more -->
+
 显然每行必须两个颜色交错放满。
 
 考虑纯暴力，设 $dp_{i,j,k}$ 表示第 $i$ 行交错放 $j$ 和 $k$ 的最小答案。

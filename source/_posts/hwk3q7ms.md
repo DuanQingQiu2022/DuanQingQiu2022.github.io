@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/CF1305D)
 
+<!-- more -->
+
 注意到树的形态和标号都是给定的，所以做法都写在题面上了。
 
 然后你注意到如果你随便问两个点没法确定顺序，所以应该问叶子。

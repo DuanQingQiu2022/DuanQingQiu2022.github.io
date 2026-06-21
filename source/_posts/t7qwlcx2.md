@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P4555)
 
+<!-- more -->
+
 看到回文串，自然考虑 mancher 算法。如果把两个最长的回文串拼在一起，显然是满足题意的。
 
 但是普通的 manacher 并不能维护这种信息，所以需要维护一些别的东西。

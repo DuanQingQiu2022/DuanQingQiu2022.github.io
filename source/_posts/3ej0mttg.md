@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P3878)
 
+<!-- more -->
+
 这题我提交了 0.1k 次，哈哈。
 
 可以模拟退火。用 $pos_i$ 代表第 $i$ 个数在哪个组里，每次随机两个数，如果不同组就交换。然后这样就可以做到 $O(1)$ 退火。

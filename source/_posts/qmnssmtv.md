@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/CF442B)
 
+<!-- more -->
+
 首先直观上来看肯定应该先选最大的。
 
 考虑前面选的 $k$ 个数答案为 $x$，前面选的 $k$ 个数概率分别为 $p_1,p_2,…,p_k$，当前选的这个数概率为 $y$。

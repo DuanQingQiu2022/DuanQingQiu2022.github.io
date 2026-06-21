@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P8883)
 
+<!-- more -->
+
 首先肯定是质数的平方才有意义，正着做就是枚举质因子然后大力容斥，于是显然是正难则反，考虑不能被所有质数平方整除的数。
 
 然后分别对每一个质数 $p_i$ 计算贡献，即可得到答案是 $n\times [1-\prod\limits_{p} (1-{p_i}^{-2})]$。

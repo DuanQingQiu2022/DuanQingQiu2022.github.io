@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/CF906C)
 
+<!-- more -->
+
 看数据范围显然是个状压 dp。
 
 设 $dp[i]$ 表示认识人的情况为 $i$ 时最少需要介绍的次数，$a_i$ 表示 $i$ 认识人的情况，每次转移就是 $dp[i|a_j]=\min(dp[i|a_j],dp[i]+1$)。

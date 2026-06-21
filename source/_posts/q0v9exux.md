@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P6927)
 
+<!-- more -->
+
 一道很好的贪心题。
 
 发现硬盘种类分为两种：1、格式化后硬盘容量增大，2、格式化后硬盘容量不增大。

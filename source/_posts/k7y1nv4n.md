@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P1120)
 
+<!-- more -->
+
 **UPD：这份代码由于没有加二分优化，现在测修改后的数据会T一个点**
 
 应该是一道搜索入门题……心态被这题搞崩了。

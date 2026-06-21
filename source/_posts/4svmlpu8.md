@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P2197)
 
+<!-- more -->
+
 nim 游戏的板子题。
 
 可以证明这个博弈不存在平局，只有先手必胜和先手必败两种情况。

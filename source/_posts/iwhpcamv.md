@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P4643)
 
+<!-- more -->
+
 这道题的思路比较巧妙。
 
 双方在最优策略下选点，肯定会选点权最大的点。如果这道题没有边权，那就是道水题了，直接贪心选权值最大的点即可。

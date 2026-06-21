@@ -151,6 +151,19 @@ function isolateDisplayMath(md) {
     inner === undefined ? m : `\n\n$$\n${inner.trim()}\n$$\n\n`);
 }
 
+// Insert <!-- more --> after the first paragraph so the index page shows a short
+// excerpt + "read more" link instead of the whole article body.
+function insertMore(md) {
+  if (md.includes('<!-- more -->')) return md;
+  const blocks = md.split(/\n{2,}/);
+  let i = 0;
+  while (i < blocks.length && blocks[i].trim() === '') i++;   // skip leading blanks
+  if (i >= blocks.length) return md;
+  const tail = blocks.slice(i + 1).join('\n\n');
+  if (!tail.trim()) return md;                                 // single-block post: leave whole
+  return blocks.slice(0, i + 1).join('\n\n') + '\n\n<!-- more -->\n\n' + tail;
+}
+
 // Convert one already-fetched article object (lentille `article`) into a Hexo post.
 // Images are pulled from cdn.luogu.com.cn (not behind the WAF), so this works locally.
 async function emitArticle(art, report) {
@@ -174,7 +187,8 @@ async function emitArticle(art, report) {
   // Nunjucks tag parsing is disabled globally (markdown.disableNunjucks in _config.yml),
   // so {{ }} / {% %} in content stay literal — write content as-is.
   await fsp.mkdir(POSTS_DIR, { recursive: true });
-  await fsp.writeFile(path.join(POSTS_DIR, lid + '.md'), buildFrontMatter(art) + '\n\n' + content + '\n', 'utf8');
+  const body = insertMore(content);
+  await fsp.writeFile(path.join(POSTS_DIR, lid + '.md'), buildFrontMatter(art) + '\n\n' + body + '\n', 'utf8');
   report.ok.push({ lid, title: art.title, images: `${imgOk}/${urls.length}` });
 }
 

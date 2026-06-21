@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P1364)
 
+<!-- more -->
+
 这是一个求带权树重心的板子题。
 
 如何线性求带权树重心？

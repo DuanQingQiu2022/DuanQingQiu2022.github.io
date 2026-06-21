@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P1974)
 
+<!-- more -->
+
 考虑有三张卡片 $a<b<c$，那么显然先合并 $ab$ 再合并 $c$ 是最优解。
 
 因此只需要每次贪心地取出两张最小的卡片合并即可。

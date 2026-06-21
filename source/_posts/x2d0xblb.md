@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/CF1032E)
 
+<!-- more -->
+
 看样例就可以知道，你必须询问一堆一样的数才可能猜中。
 
 那考虑判断选 $i$ 个 $x$ 的方案数，设 $x$ 出现的次数为 $c_x$，如果这个方案数等于 $\dbinom{c_x}{i}$，就说明正好是从 $c_x$ 个相同数里选 $i$ 个，也就是说选的这 $i$ 个数都是相等的。

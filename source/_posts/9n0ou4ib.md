@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P2765)
 
+<!-- more -->
+
 不会网络流，不懂怎么做网络流，但是可以神之贪心。
 
 真有人看到这题会想到网络流啊？

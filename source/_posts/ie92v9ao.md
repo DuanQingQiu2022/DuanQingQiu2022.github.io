@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P13364)
 
+<!-- more -->
+
 没看懂讨论区在说什么。
 
 首先有个结论是在一个随机排列中，不动点的期望个数总是 $1$。

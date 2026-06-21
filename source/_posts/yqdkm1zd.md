@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P2503)
 
+<!-- more -->
+
 这个均方差就是标准差……
 
 题意：把 $n$ 个数分成 $m$ 组，把每组当做整体，求这 $m$ 组的标准差最小是多少。

@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P1020)
 
+<!-- more -->
+
 题意：给你一个长度为 $n$ 的数列 $a_i$，求它的最长不上升子序列长度和最长上升子序列长度。
 
 这题应该是板子题了……有一个十分经典的 $O(nlogn)$ 做法。

@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/CF1554A)
 
+<!-- more -->
+
 显然多个数的区间并不会比两个数的区间更优。所以只需要枚举所有长度为 $2$ 的区间即可。
 
 时间复杂度 $O(n)$。

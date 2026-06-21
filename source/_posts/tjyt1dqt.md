@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/AT2386)
 
+<!-- more -->
+
 AGC 的思维题我真是一道都不会做啊……
 
 感觉其他题解或多或少有点小问题 qwq，于是自己来写一篇。

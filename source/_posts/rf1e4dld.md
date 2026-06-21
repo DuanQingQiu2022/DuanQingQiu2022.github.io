@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/CF27D)
 
+<!-- more -->
+
 如果两条边相交那就不能放在同侧，于是自然想到二分图染色。
 
 把每条边抽象成点，相交就连边，最后判断一下这个图是否为二分图即可。

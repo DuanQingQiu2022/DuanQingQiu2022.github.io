@@ -11,6 +11,8 @@ disableNunjucks: true
 
 最小二乘法是通过最小化误差的平方和寻找数据的最佳函数匹配的方法，通常用于处理线性或非线性模型的参数估计问题。
 
+<!-- more -->
+
 具体地，对于 $n$ 个已知数据点 $(x_1,y_1),\dots,(x_n,y_n)$，我们希望找到一个函数 $f(x)$，使它的图像尽可能靠近这些已知的数据点。
 
 更具体地，我们需要一个指标衡量“靠近”的程度。在最小二乘法中，我们希望最小化 $S=\sum\limits_{i=1}^n[y_i-f(x_i)]^2$。（即所有数据点残差的平方之和）
@@ -38,21 +40,13 @@ disableNunjucks: true
 
 根据链式求导法则，有
 
-
-
 $$
 \dfrac{\partial S}{\partial a}=\sum\limits_{i=1}^{5} 2[y_i - (a + bt_i)](-1)=(-2)\sum\limits_{i=1}^{5} (y_i - a - bt_i)
 $$
 
-
-
-
-
 $$
 \dfrac{\partial S}{\partial b}=\sum\limits_{i=1}^{5} 2[y_i - (a + bt_i)](-t_i)=(-2)\sum\limits_{i=1}^{5} (t_iy_i - at_i - bt^2_i)
 $$
-
-
 
 化简并移项，可以列出方程组：$\begin{cases}
 5a + b\sum t_i = \sum y_i \\

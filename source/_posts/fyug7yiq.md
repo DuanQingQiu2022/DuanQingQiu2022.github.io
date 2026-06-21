@@ -13,8 +13,9 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P3599)
 
-神仙构造题，大概还是 OI-Wiki 上例题。
+<!-- more -->
 
+神仙构造题，大概还是 OI-Wiki 上例题。
 
 ## Task 1
 

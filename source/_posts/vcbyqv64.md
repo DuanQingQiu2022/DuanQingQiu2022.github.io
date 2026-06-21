@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P1925)
 
+<!-- more -->
+
 感觉没什么技术力的题。
 
 定义函数 $f(k)=\left(\dfrac{n}{k}\right)^k$，其中 $k$ 为正整数。

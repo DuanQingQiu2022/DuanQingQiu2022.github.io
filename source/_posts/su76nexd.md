@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P7525)
 
+<!-- more -->
+
 神仙结论题。
 
 发现部分分有很强的引导性。

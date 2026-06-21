@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P2051)
 
+<!-- more -->
+
 一个巨大的分类讨论 dp。
 
 因为行和列都有限制，每行/每列都不能放 $\ge 3$ 个炮，考虑分开算行和列，设 $dp[i][j][k]$ 表示前 $i$ 行有 $j$ 列放了一个炮，$k$ 列放了两个炮的方案数。

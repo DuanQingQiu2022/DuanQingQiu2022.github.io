@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P1417)
 
+<!-- more -->
+
 一眼 01 背包。
 
 但是发现制作时间会对答案产生影响。

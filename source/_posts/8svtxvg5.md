@@ -11,6 +11,8 @@ disableNunjucks: true
 
 ## [CF1695A](https://www.luogu.com.cn/problem/CF1695A)
 
+<!-- more -->
+
 注意到数字大小互不相同，因此最大值的位置 $(x,y)$ 是唯一确定的。那么选出的子矩阵必须包含整个矩阵的最大值，答案显然是 $\max(x,n-x+1) \times \max(y,m-y+1)$。
 
 ## [CF1695B](https://www.luogu.com.cn/problem/CF1695B)

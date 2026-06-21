@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P1347)
 
+<!-- more -->
+
 似乎有的题解说得很奇怪。
 
 每加一条边就跑一次拓扑排序，如果拓扑排序过程中某时刻队列中的元素个数 $>1$ 说明拓扑序不唯一。

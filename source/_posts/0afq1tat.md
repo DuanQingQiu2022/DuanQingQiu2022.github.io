@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/CF525E)
 
+<!-- more -->
+
 折半搜索练习题。
 
 首先 $S \le 10^{16}$，打一个 $ \le 19$ 的阶乘表即可。

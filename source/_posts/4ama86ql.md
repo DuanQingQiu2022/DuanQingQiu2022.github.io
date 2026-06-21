@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P1846)
 
+<!-- more -->
+
 以下认为 $n,m$ 同阶。
 
 首先套路性观察，直接将每个数减 $1$ 把式子转化成 $s_1 \times s_2$ 保证跟选数个数无关。

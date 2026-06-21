@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P5431)
 
+<!-- more -->
+
 这题主要考察一些模运算的基本操作和奇怪的科技。
 
 先推个式子。

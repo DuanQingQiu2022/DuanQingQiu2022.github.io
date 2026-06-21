@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P1199)
 
+<!-- more -->
+
 博弈论好玩！
 
 容易看出这个计算机总是亦步亦趋地跟着人选，也就是说计算机的下一步完全是被人控制的，所以计算机必不可能赢。

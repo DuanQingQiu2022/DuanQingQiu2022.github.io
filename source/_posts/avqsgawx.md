@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/CF1375G)
 
+<!-- more -->
+
 透过现象看本质，很精妙。
 
 题目中这个操作看似很有规律，实际分析好像没什么好用的性质。

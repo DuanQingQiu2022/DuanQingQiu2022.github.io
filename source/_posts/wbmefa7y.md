@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P1368)
 
+<!-- more -->
+
 都快省选了字符串还一点不会，赶紧退役不要拉低平均水平！！
 
 题意：给 $n$ 个循环同构串，然后找出其中字典序最大的一个。

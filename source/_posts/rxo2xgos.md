@@ -11,6 +11,8 @@ disableNunjucks: true
 
 ## [CF77A](https://www.luogu.com.cn/problem/CF77A)
 
+<!-- more -->
+
 $7$ 个人分给 $3$ 个 Boss，直接枚举所有方案即可。
 
 ## [CF77B](https://www.luogu.com.cn/problem/CF77B)

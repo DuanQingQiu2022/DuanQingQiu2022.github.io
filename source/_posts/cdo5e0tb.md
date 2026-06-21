@@ -11,6 +11,8 @@ disableNunjucks: true
 
 ## Day -3
 
+<!-- more -->
+
 得知要去沈阳比赛且明天就要走，紧急收拾了一波。
 
 ## Day -2

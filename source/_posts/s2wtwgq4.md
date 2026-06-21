@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P3590)
 
+<!-- more -->
+
 看了[这个帖子](https://www.luogu.com.cn/discuss/549145)觉得很神奇，尝试证明一下原贴结论。
 
 原帖给出了一个结论是：答案串必然有左端点在 $[1,3]$ 中或右端点在 $[n-2,n]$ 中。

@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/CF425E)
 
+<!-- more -->
+
 直接计数！
 
 考虑如果已知线段情况，是一个经典贪心，每次选当前右端点最小的线段即可。

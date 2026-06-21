@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/CF1593C)
 
+<!-- more -->
+
 记录弱智错误系列。
 
 考虑猫和老鼠都是每回合走一步，所以相当于相对静止，于是问题转化为猫走 $n$ 步时有多少只老鼠能走进洞口。

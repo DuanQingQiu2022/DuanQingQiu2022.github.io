@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P3743)
 
+<!-- more -->
+
 Stop learning useless algorithms，go and learn how to use binary search.
 
 发现这个题的操作是实数级的，也就是可以无缝转换，所以肯定能把充电值拉满。

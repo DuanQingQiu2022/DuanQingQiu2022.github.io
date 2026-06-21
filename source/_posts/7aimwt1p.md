@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P6033)
 
+<!-- more -->
+
 被这题教做人了。
 
 合并果子之前只会一个 $O(n \log n)$ 的优先队列做法，很 naive 地以为那是最优解……

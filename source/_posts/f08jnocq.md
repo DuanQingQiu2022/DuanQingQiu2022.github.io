@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P11397)
 
+<!-- more -->
+
 忘记今天有 djy 老师的比赛了，写一下这题致敬[万人血书](https://www.luogu.com.cn/problem/P8319)。
 
 首先肯定先用一次操作 1，然后拆开来看，如果 $n$ 是奇数那就一次操作 2，如果 $n$ 是偶数就一次操作 1，最后肯定都能化归到偶数情况。

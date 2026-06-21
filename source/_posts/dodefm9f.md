@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/CF1612D)
 
+<!-- more -->
+
 吐槽一下，这样例是什么东西，还不如不给……
 
 定义一个状态为 $(a,b)$。 

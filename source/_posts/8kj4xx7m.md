@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P11701)
 
+<!-- more -->
+
 不难想到 $(x+y)(x-y)=d$，因此只需枚举 $d$ 的因子即可求出 $x,y$ 的值。
 
 时间复杂度 $O(\sqrt d)$。

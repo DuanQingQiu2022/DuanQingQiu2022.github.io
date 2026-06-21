@@ -11,6 +11,8 @@ disableNunjucks: true
 
 行吧这场又没大样例。
 
+<!-- more -->
+
 开 T1，感觉很签到。
 
 开 T2，大概是 KMP 上数位 dp，我直接爬。

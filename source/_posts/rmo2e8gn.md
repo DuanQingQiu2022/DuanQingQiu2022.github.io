@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P3913)
 
+<!-- more -->
+
 好家伙 橙题卡了 0.5h，真就原地退役了。
 
 对这种 CF-Style 毫无免疫力。破防了。

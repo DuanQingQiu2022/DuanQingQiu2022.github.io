@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/CF690A2)
 
+<!-- more -->
+
 这题跟 CF690A1 的唯一区别是编号为 $1$ 的海盗可以不给自己分金币。那么显然他在任何情况下永远不会给自己金币，即海盗 $1$ 获得的金币数永远为 $0$。
 
 那么 $n$ 为奇数的情况就十分简单了，就是 CF690A1 的结论再减去 $1$ 即可，那么答案就是 $\left\lfloor\dfrac{n}{2}\right\rfloor$。

@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P2827)
 
+<!-- more -->
+
 操作次数 $m \le 10^7$，显然需要 $O(1)$ 操作。
 
 看到 $O(1)$ 操作的题，首先要想普通队列单调性。

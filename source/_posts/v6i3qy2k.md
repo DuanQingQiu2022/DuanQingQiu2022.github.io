@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P1308)
 
+<!-- more -->
+
 写这篇主要是记录几个字符串的常见操作，这道题本身没有什么好说的。
 
 细节 $1$：输入方式 `getline`，避免被吞空格。

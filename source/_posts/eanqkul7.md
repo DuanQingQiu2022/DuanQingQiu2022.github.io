@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/CF601C)
 
+<!-- more -->
+
 期望 dp 好恶心……
 
 设 $dp[i][j]$ 表示前 $i$ 场比赛得分为 $j$ 的期望人数，那么对于第 $i$ 场得分为 $k$ 的情况都可以从 $dp[i-1][j-k]$ 转移过来，那么显然有转移如下：

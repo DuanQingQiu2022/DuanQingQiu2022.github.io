@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P14835)
 
+<!-- more -->
+
 THUPC 2026 G。
 
 赛时想了一个很搞笑的贪心就是倒序遍历往较短的序列里加 1，较长的序列里加 0，被随便卡掉了。

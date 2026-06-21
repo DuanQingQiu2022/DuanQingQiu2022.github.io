@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P14635)
 
+<!-- more -->
+
 UPD on 2025.12.3：通过了官方数据。
 
 场外选手尝试签到。

@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P4158)
 
+<!-- more -->
+
 这题我一眼就秒杀了，然而足足调了一周……
 
 一看就是个弱智 dp 题，只要把所有可选区间都处理出来做个背包就完事了。

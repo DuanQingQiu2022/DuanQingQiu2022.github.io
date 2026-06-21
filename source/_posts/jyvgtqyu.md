@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P7113)
 
+<!-- more -->
+
 恶心题。
 
 管道是 DAG，所以可以记录一下每个点的入度 $ind_i$ 和出度 $out_i$，然后直接按拓扑序枚举即可。

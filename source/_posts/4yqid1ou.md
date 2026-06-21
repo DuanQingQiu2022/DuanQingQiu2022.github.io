@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/CF1598A)
 
+<!-- more -->
+
 这题 CF 上标签居然是 dfs 和 dp，我打了一个 dfs 才发现不对……
 
 题意：给一个 $2 \times n$ 的矩阵，$0$ 表示可以通过，$1$ 表示不能通过，这个人从 $(1,1)$ 出发，可以横着走、竖着走、斜着走，问能不能到达 $(2,n)$。

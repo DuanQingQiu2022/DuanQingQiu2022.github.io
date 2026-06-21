@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/CF632E)
 
+<!-- more -->
+
 注意到值域 $V$ 很小，考虑设 $dp[i]$ 表示总价值为 $i$ 最少需要拿几个物品。
 
 转移显然是 $dp[i]=\min\left\{dp[i-a_j]+1\right\}$。

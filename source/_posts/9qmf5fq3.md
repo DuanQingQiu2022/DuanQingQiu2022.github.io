@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/CF13E)
 
+<!-- more -->
+
 不好维护的信息统一考虑分块，设块长为 $B$。
 
 维护 $p_i$ 表示 $i$ 洞的弹力，$c_i$ 表示球在 $i$ 洞时，需要弹 $c_i$ 次离开当前块，$d_i$ 表示从 $i$ 洞弹出当前块落在 $d_i$ 处。

@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/CF1638B)
 
+<!-- more -->
+
 感觉这个题出得挺好。
 
 两个数相加是奇数才能交换，说明能交换的两个数奇偶性必然不同。也就是说两个奇数不可能互换位置，两个偶数也不能互换位置。

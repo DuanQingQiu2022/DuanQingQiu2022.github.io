@@ -11,6 +11,8 @@ disableNunjucks: true
 
 TU-game（Transferable Utility Game） 指具有可转移效用的合作博弈。效用可转移即联盟获得的收益可以在联盟内部成员间自由分配。
 
+<!-- more -->
+
 玩家集合 $N$，特征函数 $v(S)$ 表示玩家集合 $S$ 的总收益。通常地，规定 $v(\varnothing)=0$。
 
 ## Core（核心）

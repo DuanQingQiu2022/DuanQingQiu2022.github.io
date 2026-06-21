@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P2158)
 
+<!-- more -->
+
 这似乎是欧拉函数的板子……就先当欧拉函数学习笔记吧。
 
 欧拉函数 $φ(n)$ ：$1\sim n$ 中与 $n$ 互质的数的个数。

@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P2900)
 
+<!-- more -->
+
 又是斜优 dp。
 
 首先把土地按 $w$ 从小到大排序，然后再去掉一些 $w$ 和 $l$ 都较小的土地，最后得到的序列就是一个 $w$ 严格递减，$l$ 严格递增的序列。

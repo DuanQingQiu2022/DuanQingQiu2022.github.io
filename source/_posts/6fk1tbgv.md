@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P1809)
 
+<!-- more -->
+
 不妨先对 $a_i$ 升序排序。
 
 首先肯定要先把大的运送到右边，那么比较直观的想法肯定是优先把最大值运送到右边然后让最小值回来。

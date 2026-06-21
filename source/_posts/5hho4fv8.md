@@ -13,6 +13,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P9691)
 
+<!-- more -->
+
 比较套路。
 
 首先观察数据范围一眼 dp。

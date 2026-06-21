@@ -11,6 +11,8 @@ disableNunjucks: true
 
 [题目传送门](https://www.luogu.com.cn/problem/P8819)
 
+<!-- more -->
+
 注意到条件一被包含在条件二中，也就是需要满足每个点的出度都为 $1$。
 
 但是发现题目中所给的四个操作，只能做到 $O(1)$ 维护入度。
